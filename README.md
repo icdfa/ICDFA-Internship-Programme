@@ -7,7 +7,7 @@
 **Effective Date:** April 2026  
 **Programme Duration:** 6 Months per Track (26 Weeks)  
 **Delivery Mode:** Online, Lab-Intensive, Instructor-Guided  
-**Credential Awarded:** ICDFA Certified Cybersecurity Intern (CCI)
+**Credential Awarded:** Certified in Cybersecurity and Digital Forensics (CCDF) - Specialization in Chosen Track
 
 ---
 
@@ -35,7 +35,7 @@ The programme is divided into two distinct specialisation tracks. Interns must s
 
 The programme is delivered through the NDG NETLAB+ platform in partnership with Cisco Networking Academy, Palo Alto Networks, and other institutional partners. All courses include hands-on labs, chapter exams, midterm exams, and final comprehensive exams to ensure mastery of each subject area.
 
-Upon successful completion of a track, interns are awarded the ICDFA Certified Cybersecurity Intern (CCI) credential with the relevant specialisation endorsement.
+Upon successful completion of a track, interns are awarded the Certified in Cybersecurity and Digital Forensics (CCDF) credential with a specialisation in their chosen track (Ethical Hacking or Digital Forensics).
 
 ---
 
@@ -72,7 +72,8 @@ Interns must choose one track at the time of enrolment. The following rules appl
 **Track Duration:** 26 Weeks  
 **Total Courses:** 10  
 **Total Labs:** 148  
-**Specialisation Focus:** Offensive security, penetration testing, vulnerability assessment, critical infrastructure security, cloud security
+**Specialisation Focus:** Offensive security, penetration testing, vulnerability assessment, critical infrastructure security, cloud security  
+**Credential Upon Completion:** Certified in Cybersecurity and Digital Forensics (CCDF) - Specialization in Ethical Hacking
 
 ### CIP-A101: Linux Systems Fundamentals I
 
@@ -220,7 +221,8 @@ Track A Final Assessment, Capstone Review, and Programme Wrap-Up.
 **Track Duration:** 26 Weeks  
 **Total Courses:** 7  
 **Total Labs:** 122  
-**Specialisation Focus:** Digital evidence acquisition, forensic analysis, incident response, security operations, forensics case studies
+**Specialisation Focus:** Digital evidence acquisition, forensic analysis, incident response, security operations, forensics case studies  
+**Credential Upon Completion:** Certified in Cybersecurity and Digital Forensics (CCDF) - Specialization in Digital Forensics
 
 ### CIP-B101: Linux Systems Fundamentals I
 
@@ -448,12 +450,12 @@ Interns must respect the confidentiality of lab content, proprietary tools, and 
 
 ## 11. Certification and Credential
 
-### ICDFA Certified Cybersecurity Intern (CCI)
+### Certified in Cybersecurity and Digital Forensics (CCDF)
 
-Upon successful completion of either Track A or Track B, interns are awarded the ICDFA Certified Cybersecurity Intern (CCI) credential with a specialisation endorsement:
+Upon successful completion of either Track A or Track B, interns are awarded the Certified in Cybersecurity and Digital Forensics (CCDF) credential with a specialisation in their chosen track:
 
-- **CCI -- Ethical Hacking Specialisation** (for Track A graduates)
-- **CCI -- Digital Forensics Specialisation** (for Track B graduates)
+- **CCDF -- Ethical Hacking Specialisation** (for Track A graduates)
+- **CCDF -- Digital Forensics Specialisation** (for Track B graduates)
 
 ### Industry Certifications
 
@@ -464,7 +466,7 @@ Interns completing the programme are eligible for and receive exam coupons for:
 
 ### Credential Validity
 
-The CCI credential is valid indefinitely and demonstrates foundational-to-intermediate competency in cybersecurity.
+The CCDF credential is valid indefinitely and demonstrates foundational-to-intermediate competency in cybersecurity and digital forensics.
 
 ---
 

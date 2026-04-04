@@ -61,7 +61,7 @@ The total scholarship value is **USD $150 per recipient**, which covers:
 - Full access to all lab environments and learning resources
 - Access to partner platforms (NDG NETLAB+, Cisco, Palo Alto Networks, Microsoft Azure, AWS)
 - Certification exam coupons (LPI LPIC-1 101 and 102)
-- ICDFA Certified Cybersecurity Intern (CCI) credential upon completion
+- Certified in Cybersecurity and Digital Forensics (CCDF) credential upon completion
 
 ### 2.3 Scholarship Duration
 
@@ -369,7 +369,7 @@ Failure to complete CDS obligations by the specified deadline may result in:
 
 - Scholarship funds being reclaimed
 - Ineligibility for future ICDFA programmes
-- Notation on the CCI credential
+- Notation on the CCDF credential
 
 ---
 
@@ -382,7 +382,7 @@ The ICDFA Charity Foundation Scholarship covers the following:
 - **Learning Resources**: All course materials, instructional content, and learning resources
 - **Partner Platform Access**: Access to Cisco Networking Academy, Palo Alto Networks, Microsoft Azure, AWS Academy, and LPI resources
 - **Certification Exam Coupons**: LPI LPIC-1 101 and 102 exam coupons (valued at approximately USD $300)
-- **ICDFA Certified Cybersecurity Intern (CCI) Credential**: Official certificate and digital badge upon completion
+- **Certified in Cybersecurity and Digital Forensics (CCDF) Credential**: Official certificate and digital badge upon completion
 - **Instructor Support**: Access to qualified instructors and teaching assistants
 - **Career Services**: Resume review, interview preparation, job board access, and networking opportunities
 
@@ -459,7 +459,7 @@ Upon scholarship termination:
 
 - The scholar's scholarship is immediately revoked
 - The scholar's access to lab environments and learning resources is terminated
-- The scholar is not eligible for the CCI credential
+- The scholar is not eligible for the CCDF credential
 - Any scholarship funds already disbursed may be reclaimed
 - The scholar is ineligible for future ICDFA scholarships
 

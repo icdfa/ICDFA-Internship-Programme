@@ -121,7 +121,7 @@ A: The self-sponsored track costs USD $150. The ICDFA Charity Foundation Scholar
 
 **Q4.2: What does the programme fee include?**
 
-A: The programme fee includes: full access to all lab environments, all course materials and instructional content, access to partner platforms (NDG NETLAB+, Cisco, Palo Alto Networks, Microsoft Azure, AWS), certification exam coupons (LPI LPIC-1 101 and 102), and the ICDFA Certified Cybersecurity Intern (CCI) credential upon completion.
+A: The programme fee includes: full access to all lab environments, all course materials and instructional content, access to partner platforms (NDG NETLAB+, Cisco, Palo Alto Networks, Microsoft Azure, AWS), certification exam coupons (LPI LPIC-1 101 and 102), and the Certified in Cybersecurity and Digital Forensics (CCDF) credential upon completion.
 
 **Q4.3: Are there any additional fees or hidden costs?**
 
@@ -261,11 +261,11 @@ A: Final grade = (Continuous Assessment 60%) + (Final Assessment 40%). Continuou
 
 **Q8.1: What credential do I receive upon completion?**
 
-A: You receive the ICDFA Certified Cybersecurity Intern (CCI) credential with a specialisation endorsement (Ethical Hacking or Digital Forensics).
+A: You receive the Certified in Cybersecurity and Digital Forensics (CCDF) credential with a specialisation endorsement (Ethical Hacking or Digital Forensics).
 
-**Q8.2: Is the CCI credential recognised internationally?**
+**Q8.2: Is the CCDF credential recognised internationally?**
 
-A: The CCI credential is recognised within the cybersecurity industry and by ICDFA partner organisations. It demonstrates foundational-to-intermediate cybersecurity competency in your selected specialisation.
+A: The CCDF credential is recognised within the cybersecurity industry and by ICDFA partner organisations. It demonstrates foundational-to-intermediate cybersecurity competency in your selected specialisation.
 
 **Q8.3: What industry certifications can I pursue after the CIP?**
 
@@ -279,15 +279,15 @@ A: Yes, LPI LPIC-1 101 and 102 exam coupons are included in the programme fee fo
 
 A: Exam coupons will be provided upon completion of the relevant courses. Instructions for registering and scheduling exams will be included with the coupons.
 
-**Q8.6: Can I pursue the CCI credential and industry certifications simultaneously?**
+**Q8.6: Can I pursue the CCDF credential and industry certifications simultaneously?**
 
 A: Yes, you can work towards both. However, industry certifications require additional study and exam preparation beyond the programme curriculum.
 
-**Q8.7: What is the validity period of the CCI credential?**
+**Q8.7: What is the validity period of the CCDF credential?**
 
-A: The CCI credential is valid indefinitely. However, ICDFA may require periodic renewal or continuing education to maintain credential status (details TBD).
+A: The CCDF credential is valid indefinitely. However, ICDFA may require periodic renewal or continuing education to maintain credential status (details TBD).
 
-**Q8.8: How do I display the CCI credential?**
+**Q8.8: How do I display the CCDF credential?**
 
 A: You will receive a digital badge and certificate upon completion. You can display the badge on your LinkedIn profile, resume, and professional websites.
 

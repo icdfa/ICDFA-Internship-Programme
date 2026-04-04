@@ -33,7 +33,7 @@ This Internship Agreement confirms the intern's enrolment in the ICDFA Cybersecu
 - Self-Sponsored
 - ICDFA Charity Foundation Scholarship
 
-**Credential Upon Completion:** ICDFA Certified Cybersecurity Intern (CCI) with [Track A / Track B] Specialisation
+**Credential Upon Completion:** Certified in Cybersecurity and Digital Forensics (CCDF) with [Track A / Track B] Specialisation
 
 ---
 
@@ -105,7 +105,7 @@ ICDFA agrees to:
 - Allow interns to appeal grades through the formal grade appeal process
 
 ### 3.4 Certification
-- Award the ICDFA Certified Cybersecurity Intern (CCI) credential upon successful completion
+- Award the Certified in Cybersecurity and Digital Forensics (CCDF) credential upon successful completion
 - Issue an official certificate and digital badge
 - Provide documentation of completed courses and labs
 - Support interns in pursuing industry certifications (LPI, CompTIA Security+, etc.)
@@ -203,7 +203,7 @@ However, for serious violations (e.g., malicious activity, credential sharing), 
 Upon dismissal:
 
 - The intern's access to lab environments and learning resources is immediately terminated
-- The intern is not eligible for the CCI credential or any certificates
+- The intern is not eligible for the CCDF credential or any certificates
 - The intern forfeits any programme fees paid (no refund)
 - For scholarship recipients, the scholarship is terminated and any funds already disbursed may be reclaimed
 
@@ -212,7 +212,7 @@ Upon dismissal:
 If the intern wishes to withdraw from the programme, they must submit a written request to the Director of Training. Upon withdrawal:
 
 - The intern's access to lab environments and learning resources is terminated
-- The intern is not eligible for the CCI credential
+- The intern is not eligible for the CCDF credential
 - For self-sponsored interns, programme fees are non-refundable
 - For scholarship recipients, the scholarship is terminated
 

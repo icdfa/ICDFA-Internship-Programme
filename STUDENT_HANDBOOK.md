@@ -31,7 +31,7 @@ Welcome to the ICDFA Cybersecurity Internship Programme (CIP). This handbook ser
 
 The CIP is a rigorous, 6-month, lab-intensive internship designed to develop foundational-to-intermediate cybersecurity skills in either Ethical Hacking or Digital Forensics. The programme combines theoretical knowledge with extensive hands-on laboratory experience delivered through industry-leading platforms including NDG NETLAB+, Cisco Networking Academy, Palo Alto Networks, Microsoft Azure, AWS Academy, and LPI.
 
-Upon successful completion of your selected track, you will be awarded the **ICDFA Certified Cybersecurity Intern (CCI)** credential with the relevant specialisation endorsement (Ethical Hacking or Digital Forensics).
+Upon successful completion of your selected track, you will be awarded the **Certified in Cybersecurity and Digital Forensics (CCDF)** credential with the relevant specialisation endorsement (Ethical Hacking or Digital Forensics).
 
 ---
 
@@ -151,7 +151,7 @@ The CIP operates under a **strict no-retake policy**. This policy is designed to
 
 ### 5.2 Rationale
 
-The no-retake policy ensures that all graduates have completed the full curriculum to the required standard. This maintains the credibility of the ICDFA Certified Cybersecurity Intern (CCI) credential and protects the reputation of the ICDFA.
+The no-retake policy ensures that all graduates have completed the full curriculum to the required standard. This maintains the credibility of the Certified in Cybersecurity and Digital Forensics (CCDF) credential and protects the reputation of the ICDFA.
 
 ---
 
