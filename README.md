@@ -7,7 +7,7 @@
 **Effective Date:** April 2026
 **Programme Duration:** 6 Months per Track (26 Weeks)
 **Delivery Mode:** Online, Lab-Intensive, Instructor-Guided
-**Credential Awarded:** ICDFA Certified Cybersecurity Intern (CCI)
+**Credential Awarded:** Certified in Cybersecurity and Digital Forensics (CCDF)
 
 ---
 
@@ -52,7 +52,7 @@ The programme is divided into two distinct specialisation tracks. Interns must s
 
 The programme is delivered through the NDG NETLAB+ platform in partnership with Cisco Networking Academy, Palo Alto Networks, and other institutional partners. All courses include hands-on labs, chapter exams, midterm exams, and final comprehensive exams to ensure mastery of each subject area.
 
-Upon successful completion of a track, interns are awarded the ICDFA Certified Cybersecurity Intern (CCI) credential with the relevant specialisation endorsement.
+Upon successful completion of a track, interns are awarded the Certified in Cybersecurity and Digital Forensics (CCDF) credential with the relevant specialisation endorsement.
 
 ---
 
@@ -978,7 +978,7 @@ Interns are expected to conduct themselves professionally at all times. This inc
 
 Upon successful completion of all courses, labs, exams, and assessments within their selected track, interns will be awarded the:
 
-**ICDFA Certified Cybersecurity Intern (CCI)**
+**Certified in Cybersecurity and Digital Forensics (CCDF)**
 
 The credential will carry the relevant specialisation endorsement:
 
