@@ -17,24 +17,24 @@
 2. [Programme Structure](#2-programme-structure)
 3. [Track Selection Policy](#3-track-selection-policy)
 4. [Track A: Ethical Hacking](#4-track-a-ethical-hacking)
-   - [CIP-A101: Introduction to Linux 1](#cip-a101-introduction-to-linux-1)
-   - [CIP-A102: Introduction to Linux 2](#cip-a102-introduction-to-linux-2)
-   - [CIP-A103: Network Security Fundamentals](#cip-a103-network-security-fundamentals)
-   - [CIP-A104: NDG Ethical Hacking v2 -- Series 1](#cip-a104-ndg-ethical-hacking-v2--series-1)
-   - [CIP-A105: NDG Ethical Hacking v2 -- Series 2](#cip-a105-ndg-ethical-hacking-v2--series-2)
-   - [CIP-A106: Intro to Critical Infrastructure](#cip-a106-intro-to-critical-infrastructure)
-   - [CIP-A107: Security Operations Fundamentals](#cip-a107-security-operations-fundamentals)
-   - [CIP-A108: NDG Security+ v4](#cip-a108-ndg-security-v4)
-   - [CIP-A109: Cloud Security Fundamentals](#cip-a109-cloud-security-fundamentals)
-   - [CIP-A110: Cloud Security Automation](#cip-a110-cloud-security-automation)
+   - [CIP-A101: Linux Systems Fundamentals I](#cip-a101-linux-systems-fundamentals-i)
+   - [CIP-A102: Linux Systems Fundamentals II](#cip-a102-linux-systems-fundamentals-ii)
+   - [CIP-A103: Network Defence & Traffic Analysis](#cip-a103-network-defence--traffic-analysis)
+   - [CIP-A104: Offensive Security Operations I](#cip-a104-offensive-security-operations-i)
+   - [CIP-A105: Offensive Security Operations II](#cip-a105-offensive-security-operations-ii)
+   - [CIP-A106: Critical Infrastructure & ICS Security](#cip-a106-critical-infrastructure--ics-security)
+   - [CIP-A107: Security Operations Centre (SOC) Essentials](#cip-a107-security-operations-centre-soc-essentials)
+   - [CIP-A108: Applied Security Engineering](#cip-a108-applied-security-engineering)
+   - [CIP-A109: Cloud Security Architecture](#cip-a109-cloud-security-architecture)
+   - [CIP-A110: Cloud Security Automation & DevSecOps](#cip-a110-cloud-security-automation--devsecops)
 5. [Track B: Digital Forensics](#5-track-b-digital-forensics)
-   - [CIP-B101: Introduction to Linux 1](#cip-b101-introduction-to-linux-1)
-   - [CIP-B102: Introduction to Linux 2](#cip-b102-introduction-to-linux-2)
-   - [CIP-B103: Network Security Fundamentals](#cip-b103-network-security-fundamentals)
-   - [CIP-B104: NDG Security+ v4](#cip-b104-ndg-security-v4)
-   - [CIP-B105: NDG Forensics v2](#cip-b105-ndg-forensics-v2)
-   - [CIP-B106: Security Operations Fundamentals](#cip-b106-security-operations-fundamentals)
-   - [CIP-B107: Forensics Case Studies](#cip-b107-forensics-case-studies)
+   - [CIP-B101: Linux Systems Fundamentals I](#cip-b101-linux-systems-fundamentals-i)
+   - [CIP-B102: Linux Systems Fundamentals II](#cip-b102-linux-systems-fundamentals-ii)
+   - [CIP-B103: Network Defence & Traffic Analysis](#cip-b103-network-defence--traffic-analysis)
+   - [CIP-B104: Applied Security Engineering](#cip-b104-applied-security-engineering)
+   - [CIP-B105: Digital Forensics & Evidence Analysis](#cip-b105-digital-forensics--evidence-analysis)
+   - [CIP-B106: Security Operations Centre (SOC) Essentials](#cip-b106-security-operations-centre-soc-essentials)
+   - [CIP-B107: Advanced Forensic Investigations](#cip-b107-advanced-forensic-investigations)
 6. [Weekly Schedule -- Track A: Ethical Hacking](#6-weekly-schedule--track-a-ethical-hacking)
 7. [Weekly Schedule -- Track B: Digital Forensics](#7-weekly-schedule--track-b-digital-forensics)
 8. [Assessment Framework](#8-assessment-framework)
@@ -91,10 +91,10 @@ Interns must choose one track at the time of enrolment. The following rules appl
 
 ---
 
-### CIP-A101: Introduction to Linux 1
+### CIP-A101: Linux Systems Fundamentals I
 
 **Course Code:** CIP-A101
-**Course Title:** Introduction to Linux 1
+**Course Title:** Linux Systems Fundamentals I
 **Duration:** 3 Weeks (Weeks 1-3)
 **Platform:** NDG NETLAB+
 **Certification Alignment:** LPI LPIC-1 101
@@ -179,10 +179,10 @@ Module 8: System Software
 
 ---
 
-### CIP-A102: Introduction to Linux 2
+### CIP-A102: Linux Systems Fundamentals II
 
 **Course Code:** CIP-A102
-**Course Title:** Introduction to Linux 2
+**Course Title:** Linux Systems Fundamentals II
 **Duration:** 3 Weeks (Weeks 4-6)
 **Platform:** NDG NETLAB+
 **Certification Alignment:** LPI LPIC-1 102
@@ -252,10 +252,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A103: Network Security Fundamentals
+### CIP-A103: Network Defence & Traffic Analysis
 
 **Course Code:** CIP-A103
-**Course Title:** Network Security Fundamentals
+**Course Title:** Network Defence & Traffic Analysis
 **Duration:** 2 Weeks (Weeks 7-8)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of network security including concepts you must understand to recognise and potentially defend home networks and mission-critical infrastructure.
@@ -275,13 +275,13 @@ Module 6: System Security
 
 ---
 
-### CIP-A104: NDG Ethical Hacking v2 -- Series 1
+### CIP-A104: Offensive Security Operations I
 
 **Course Code:** CIP-A104
-**Course Title:** NDG Ethical Hacking v2 -- Series 1
+**Course Title:** Offensive Security Operations I
 **Duration:** 3 Weeks (Weeks 9-11)
 **Platform:** NDG NETLAB+
-**Description:** Prepare for a variety of IT positions, including Cyber Security Analyst, Penetration Tester, Ethical Hacker, Security Engineer, and Cyber Security Engineer. Series 1 covers reconnaissance, scanning, vulnerability assessment, exploitation, and social engineering.
+**Description:** Develop the core offensive security skills required for roles such as Cyber Security Analyst, Penetration Tester, Ethical Hacker, Security Engineer, and Cyber Security Engineer. This course covers reconnaissance, scanning, vulnerability assessment, exploitation, and social engineering.
 
 **Labs:**
 
@@ -310,13 +310,13 @@ Module 6: System Security
 
 ---
 
-### CIP-A105: NDG Ethical Hacking v2 -- Series 2
+### CIP-A105: Offensive Security Operations II
 
 **Course Code:** CIP-A105
-**Course Title:** NDG Ethical Hacking v2 -- Series 2
+**Course Title:** Offensive Security Operations II
 **Duration:** 2 Weeks (Weeks 12-13)
 **Platform:** NDG NETLAB+
-**Description:** Continuation of NDG Ethical Hacking v2. Series 2 covers advanced scanning methodology, enumeration, system hacking, web-based hacking, mobile hacking, and cryptography.
+**Description:** Continuation of Offensive Security Operations I. This course covers advanced scanning methodology, enumeration, system hacking, web-based hacking, mobile hacking, and cryptography.
 
 **Labs:**
 
@@ -335,10 +335,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A106: Intro to Critical Infrastructure
+### CIP-A106: Critical Infrastructure & ICS Security
 
 **Course Code:** CIP-A106
-**Course Title:** Intro to Critical Infrastructure
+**Course Title:** Critical Infrastructure & ICS Security
 **Duration:** 3 Weeks (Weeks 14-16)
 **Platform:** NDG NETLAB+
 **Description:** Gain hands-on experience with key Critical Infrastructure (CI) cybersecurity concepts, including PLCs, HMIs, SCADA systems, Modbus, and related protocols.
@@ -366,10 +366,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A107: Security Operations Fundamentals
+### CIP-A107: Security Operations Centre (SOC) Essentials
 
 **Course Code:** CIP-A107
-**Course Title:** Security Operations Fundamentals
+**Course Title:** Security Operations Centre (SOC) Essentials
 **Duration:** 2 Weeks (Weeks 17-18)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** A high-level introduction to the general concepts of SOC (Security Operations Center) and SecOps (Security Operations Procedures).
@@ -389,10 +389,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A108: NDG Security+ v4
+### CIP-A108: Applied Security Engineering
 
 **Course Code:** CIP-A108
-**Course Title:** NDG Security+ v4
+**Course Title:** Applied Security Engineering
 **Duration:** 3 Weeks (Weeks 19-21)
 **Platform:** NDG NETLAB+
 **Certification Alignment:** CompTIA Security+
@@ -432,10 +432,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A109: Cloud Security Fundamentals
+### CIP-A109: Cloud Security Architecture
 
 **Course Code:** CIP-A109
-**Course Title:** Cloud Security Fundamentals
+**Course Title:** Cloud Security Architecture
 **Duration:** 2 Weeks (Weeks 22-23)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of cloud security, including concepts you must understand to recognise threats and potentially defend from cloud-based attacks.
@@ -456,10 +456,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A110: Cloud Security Automation
+### CIP-A110: Cloud Security Automation & DevSecOps
 
 **Course Code:** CIP-A110
-**Course Title:** Cloud Security Automation
+**Course Title:** Cloud Security Automation & DevSecOps
 **Duration:** 2 Weeks (Weeks 24-25)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of cloud security automation with Kubernetes, Minikube, DevSecOps practices, vulnerability management, and the MITRE ATT&CK framework.
@@ -489,10 +489,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B101: Introduction to Linux 1
+### CIP-B101: Linux Systems Fundamentals I
 
 **Course Code:** CIP-B101
-**Course Title:** Introduction to Linux 1
+**Course Title:** Linux Systems Fundamentals I
 **Duration:** 3 Weeks (Weeks 1-3)
 **Platform:** NDG NETLAB+
 **Certification Alignment:** LPI LPIC-1 101
@@ -577,10 +577,10 @@ Module 8: System Software
 
 ---
 
-### CIP-B102: Introduction to Linux 2
+### CIP-B102: Linux Systems Fundamentals II
 
 **Course Code:** CIP-B102
-**Course Title:** Introduction to Linux 2
+**Course Title:** Linux Systems Fundamentals II
 **Duration:** 3 Weeks (Weeks 4-6)
 **Platform:** NDG NETLAB+
 **Certification Alignment:** LPI LPIC-1 102
@@ -650,10 +650,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B103: Network Security Fundamentals
+### CIP-B103: Network Defence & Traffic Analysis
 
 **Course Code:** CIP-B103
-**Course Title:** Network Security Fundamentals
+**Course Title:** Network Defence & Traffic Analysis
 **Duration:** 2 Weeks (Weeks 7-8)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of network security including concepts you must understand to recognise and potentially defend home networks and mission-critical infrastructure.
@@ -673,10 +673,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B104: NDG Security+ v4
+### CIP-B104: Applied Security Engineering
 
 **Course Code:** CIP-B104
-**Course Title:** NDG Security+ v4
+**Course Title:** Applied Security Engineering
 **Duration:** 4 Weeks (Weeks 9-12)
 **Platform:** NDG NETLAB+
 **Certification Alignment:** CompTIA Security+
@@ -716,13 +716,13 @@ Module 6: System Security
 
 ---
 
-### CIP-B105: NDG Forensics v2
+### CIP-B105: Digital Forensics & Evidence Analysis
 
 **Course Code:** CIP-B105
-**Course Title:** NDG Forensics v2
+**Course Title:** Digital Forensics & Evidence Analysis
 **Duration:** 4 Weeks (Weeks 13-16)
 **Platform:** NDG NETLAB+
-**Description:** Prepare for a variety of IT positions, including Computer Forensic Analyst, Digital Forensic Examiner, Digital Forensics Incident Response, and Security Administrator.
+**Description:** Develop the core digital forensics skills required for roles such as Computer Forensic Analyst, Digital Forensic Examiner, Digital Forensics Incident Response Specialist, and Security Administrator.
 
 **Labs:**
 
@@ -754,10 +754,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B106: Security Operations Fundamentals
+### CIP-B106: Security Operations Centre (SOC) Essentials
 
 **Course Code:** CIP-B106
-**Course Title:** Security Operations Fundamentals
+**Course Title:** Security Operations Centre (SOC) Essentials
 **Duration:** 2 Weeks (Weeks 17-18)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** A high-level introduction to the general concepts of SOC (Security Operations Center) and SecOps (Security Operations Procedures).
@@ -777,10 +777,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B107: Forensics Case Studies
+### CIP-B107: Advanced Forensic Investigations
 
 **Course Code:** CIP-B107
-**Course Title:** Forensics Case Studies
+**Course Title:** Advanced Forensic Investigations
 **Duration:** 7 Weeks (Weeks 19-25)
 **Platform:** Independent Study / ICDFA Resources
 **Description:** An independent, research-driven course where interns study and analyse real-world digital forensics cases. Interns will examine landmark forensic investigations, apply forensic methodologies learned in previous courses, and produce professional forensic reports. This course bridges the gap between lab-based learning and real-world forensic practice.
@@ -837,31 +837,31 @@ Unit 7: Capstone Forensic Investigation (Week 25)
 
 | Week | Course Code | Course Title | Labs Covered |
 |------|-------------|-------------|-------------|
-| Week 01 | CIP-A101 | Introduction to Linux 1 | Lab 02 - Lab 06 |
-| Week 02 | CIP-A101 | Introduction to Linux 1 | Lab 07 - Lab 14 |
-| Week 03 | CIP-A101 | Introduction to Linux 1 | Lab 15 - Lab 25, Midterm, Final Exams |
-| Week 04 | CIP-A102 | Introduction to Linux 2 | Lab 01 - Lab 08 |
-| Week 05 | CIP-A102 | Introduction to Linux 2 | Lab 09 - Lab 15, Midterm |
-| Week 06 | CIP-A102 | Introduction to Linux 2 | Lab 16 - Lab 18, Final Exams |
-| Week 07 | CIP-A103 | Network Security Fundamentals | Lab 01 - Lab 04 |
-| Week 08 | CIP-A103 | Network Security Fundamentals | Lab 05 - Lab 08 |
-| Week 09 | CIP-A104 | NDG Ethical Hacking v2 -- Series 1 | Lab 01 - Lab 06 |
-| Week 10 | CIP-A104 | NDG Ethical Hacking v2 -- Series 1 | Lab 07 - Lab 12 |
-| Week 11 | CIP-A104 | NDG Ethical Hacking v2 -- Series 1 | Lab 13 - Lab 18, Cyber Range |
-| Week 12 | CIP-A105 | NDG Ethical Hacking v2 -- Series 2 | Lab 19 - Lab 22 |
-| Week 13 | CIP-A105 | NDG Ethical Hacking v2 -- Series 2 | Lab 23 - Lab 26, Cyber Range |
-| Week 14 | CIP-A106 | Intro to Critical Infrastructure | Lab 01 - Lab 05 |
-| Week 15 | CIP-A106 | Intro to Critical Infrastructure | Lab 06 - Lab 10 |
-| Week 16 | CIP-A106 | Intro to Critical Infrastructure | Lab 11 - Lab 14, Cyber Range |
-| Week 17 | CIP-A107 | Security Operations Fundamentals | Lab 01 - Lab 04 |
-| Week 18 | CIP-A107 | Security Operations Fundamentals | Lab 05 - Lab 08 |
-| Week 19 | CIP-A108 | NDG Security+ v4 | Lab 01 - Lab 08 |
-| Week 20 | CIP-A108 | NDG Security+ v4 | Lab 09 - Lab 17 |
-| Week 21 | CIP-A108 | NDG Security+ v4 | Lab 18 - Lab 25, Cyber Range |
-| Week 22 | CIP-A109 | Cloud Security Fundamentals | Lab 01 - Lab 05 |
-| Week 23 | CIP-A109 | Cloud Security Fundamentals | Lab 06 - Lab 09 |
-| Week 24 | CIP-A110 | Cloud Security Automation | Lab 01 - Lab 04 |
-| Week 25 | CIP-A110 | Cloud Security Automation | Lab 05 - Lab 07 |
+| Week 01 | CIP-A101 | Linux Systems Fundamentals I | Lab 02 - Lab 06 |
+| Week 02 | CIP-A101 | Linux Systems Fundamentals I | Lab 07 - Lab 14 |
+| Week 03 | CIP-A101 | Linux Systems Fundamentals I | Lab 15 - Lab 25, Midterm, Final Exams |
+| Week 04 | CIP-A102 | Linux Systems Fundamentals II | Lab 01 - Lab 08 |
+| Week 05 | CIP-A102 | Linux Systems Fundamentals II | Lab 09 - Lab 15, Midterm |
+| Week 06 | CIP-A102 | Linux Systems Fundamentals II | Lab 16 - Lab 18, Final Exams |
+| Week 07 | CIP-A103 | Network Defence & Traffic Analysis | Lab 01 - Lab 04 |
+| Week 08 | CIP-A103 | Network Defence & Traffic Analysis | Lab 05 - Lab 08 |
+| Week 09 | CIP-A104 | Offensive Security Operations I | Lab 01 - Lab 06 |
+| Week 10 | CIP-A104 | Offensive Security Operations I | Lab 07 - Lab 12 |
+| Week 11 | CIP-A104 | Offensive Security Operations I | Lab 13 - Lab 18, Cyber Range |
+| Week 12 | CIP-A105 | Offensive Security Operations II | Lab 19 - Lab 22 |
+| Week 13 | CIP-A105 | Offensive Security Operations II | Lab 23 - Lab 26, Cyber Range |
+| Week 14 | CIP-A106 | Critical Infrastructure & ICS Security | Lab 01 - Lab 05 |
+| Week 15 | CIP-A106 | Critical Infrastructure & ICS Security | Lab 06 - Lab 10 |
+| Week 16 | CIP-A106 | Critical Infrastructure & ICS Security | Lab 11 - Lab 14, Cyber Range |
+| Week 17 | CIP-A107 | Security Operations Centre (SOC) Essentials | Lab 01 - Lab 04 |
+| Week 18 | CIP-A107 | Security Operations Centre (SOC) Essentials | Lab 05 - Lab 08 |
+| Week 19 | CIP-A108 | Applied Security Engineering | Lab 01 - Lab 08 |
+| Week 20 | CIP-A108 | Applied Security Engineering | Lab 09 - Lab 17 |
+| Week 21 | CIP-A108 | Applied Security Engineering | Lab 18 - Lab 25, Cyber Range |
+| Week 22 | CIP-A109 | Cloud Security Architecture | Lab 01 - Lab 05 |
+| Week 23 | CIP-A109 | Cloud Security Architecture | Lab 06 - Lab 09 |
+| Week 24 | CIP-A110 | Cloud Security Automation & DevSecOps | Lab 01 - Lab 04 |
+| Week 25 | CIP-A110 | Cloud Security Automation & DevSecOps | Lab 05 - Lab 07 |
 | Week 26 | -- | Final Assessment and Programme Wrap-Up | Capstone Review |
 
 ---
@@ -870,31 +870,31 @@ Unit 7: Capstone Forensic Investigation (Week 25)
 
 | Week | Course Code | Course Title | Labs Covered |
 |------|-------------|-------------|-------------|
-| Week 01 | CIP-B101 | Introduction to Linux 1 | Lab 02 - Lab 06 |
-| Week 02 | CIP-B101 | Introduction to Linux 1 | Lab 07 - Lab 14 |
-| Week 03 | CIP-B101 | Introduction to Linux 1 | Lab 15 - Lab 25, Midterm, Final Exams |
-| Week 04 | CIP-B102 | Introduction to Linux 2 | Lab 01 - Lab 08 |
-| Week 05 | CIP-B102 | Introduction to Linux 2 | Lab 09 - Lab 15, Midterm |
-| Week 06 | CIP-B102 | Introduction to Linux 2 | Lab 16 - Lab 18, Final Exams |
-| Week 07 | CIP-B103 | Network Security Fundamentals | Lab 01 - Lab 04 |
-| Week 08 | CIP-B103 | Network Security Fundamentals | Lab 05 - Lab 08 |
-| Week 09 | CIP-B104 | NDG Security+ v4 | Lab 01 - Lab 06 |
-| Week 10 | CIP-B104 | NDG Security+ v4 | Lab 07 - Lab 13 |
-| Week 11 | CIP-B104 | NDG Security+ v4 | Lab 14 - Lab 19 |
-| Week 12 | CIP-B104 | NDG Security+ v4 | Lab 20 - Lab 25, Cyber Range |
-| Week 13 | CIP-B105 | NDG Forensics v2 | Lab 01 - Lab 05 |
-| Week 14 | CIP-B105 | NDG Forensics v2 | Lab 06 - Lab 11 |
-| Week 15 | CIP-B105 | NDG Forensics v2 | Lab 12 - Lab 16 |
-| Week 16 | CIP-B105 | NDG Forensics v2 | Lab 17 - Lab 21, Cyber Range |
-| Week 17 | CIP-B106 | Security Operations Fundamentals | Lab 01 - Lab 04 |
-| Week 18 | CIP-B106 | Security Operations Fundamentals | Lab 05 - Lab 08 |
-| Week 19 | CIP-B107 | Forensics Case Studies | Unit 1: Corporate Data Breach Investigation |
-| Week 20 | CIP-B107 | Forensics Case Studies | Unit 2: Mobile Device Forensics Case |
-| Week 21 | CIP-B107 | Forensics Case Studies | Unit 3: Ransomware Incident Response |
-| Week 22 | CIP-B107 | Forensics Case Studies | Unit 4: Insider Threat Investigation |
-| Week 23 | CIP-B107 | Forensics Case Studies | Unit 5: Cloud Forensics Investigation |
-| Week 24 | CIP-B107 | Forensics Case Studies | Unit 6: IoT and Embedded Device Forensics |
-| Week 25 | CIP-B107 | Forensics Case Studies | Unit 7: Capstone Forensic Investigation |
+| Week 01 | CIP-B101 | Linux Systems Fundamentals I | Lab 02 - Lab 06 |
+| Week 02 | CIP-B101 | Linux Systems Fundamentals I | Lab 07 - Lab 14 |
+| Week 03 | CIP-B101 | Linux Systems Fundamentals I | Lab 15 - Lab 25, Midterm, Final Exams |
+| Week 04 | CIP-B102 | Linux Systems Fundamentals II | Lab 01 - Lab 08 |
+| Week 05 | CIP-B102 | Linux Systems Fundamentals II | Lab 09 - Lab 15, Midterm |
+| Week 06 | CIP-B102 | Linux Systems Fundamentals II | Lab 16 - Lab 18, Final Exams |
+| Week 07 | CIP-B103 | Network Defence & Traffic Analysis | Lab 01 - Lab 04 |
+| Week 08 | CIP-B103 | Network Defence & Traffic Analysis | Lab 05 - Lab 08 |
+| Week 09 | CIP-B104 | Applied Security Engineering | Lab 01 - Lab 06 |
+| Week 10 | CIP-B104 | Applied Security Engineering | Lab 07 - Lab 13 |
+| Week 11 | CIP-B104 | Applied Security Engineering | Lab 14 - Lab 19 |
+| Week 12 | CIP-B104 | Applied Security Engineering | Lab 20 - Lab 25, Cyber Range |
+| Week 13 | CIP-B105 | Digital Forensics & Evidence Analysis | Lab 01 - Lab 05 |
+| Week 14 | CIP-B105 | Digital Forensics & Evidence Analysis | Lab 06 - Lab 11 |
+| Week 15 | CIP-B105 | Digital Forensics & Evidence Analysis | Lab 12 - Lab 16 |
+| Week 16 | CIP-B105 | Digital Forensics & Evidence Analysis | Lab 17 - Lab 21, Cyber Range |
+| Week 17 | CIP-B106 | Security Operations Centre (SOC) Essentials | Lab 01 - Lab 04 |
+| Week 18 | CIP-B106 | Security Operations Centre (SOC) Essentials | Lab 05 - Lab 08 |
+| Week 19 | CIP-B107 | Advanced Forensic Investigations | Unit 1: Corporate Data Breach Investigation |
+| Week 20 | CIP-B107 | Advanced Forensic Investigations | Unit 2: Mobile Device Forensics Case |
+| Week 21 | CIP-B107 | Advanced Forensic Investigations | Unit 3: Ransomware Incident Response |
+| Week 22 | CIP-B107 | Advanced Forensic Investigations | Unit 4: Insider Threat Investigation |
+| Week 23 | CIP-B107 | Advanced Forensic Investigations | Unit 5: Cloud Forensics Investigation |
+| Week 24 | CIP-B107 | Advanced Forensic Investigations | Unit 6: IoT and Embedded Device Forensics |
+| Week 25 | CIP-B107 | Advanced Forensic Investigations | Unit 7: Capstone Forensic Investigation |
 | Week 26 | -- | Final Assessment and Programme Wrap-Up | Capstone Review |
 
 ---
@@ -989,8 +989,8 @@ Interns who complete both tracks will receive both endorsements on their credent
 
 In addition, interns may be eligible for the following industry certification exam coupons, subject to course completion:
 
-- LPI LPIC-1 101 Certification Exam Coupon (Introduction to Linux 1)
-- LPI LPIC-1 102 Certification Exam Coupon (Introduction to Linux 2)
+- LPI LPIC-1 101 Certification Exam Coupon (Linux Systems Fundamentals I)
+- LPI LPIC-1 102 Certification Exam Coupon (Linux Systems Fundamentals II)
 
 ---
 
