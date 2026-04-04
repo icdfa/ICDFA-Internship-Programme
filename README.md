@@ -458,7 +458,7 @@ Module 6: System Security
 
 ### CIP-A110: Cloud Security Automation
 
-**[View All Labs for This Course →](LAB_LISTINGS.md#cip-a110-cloud-security-automation--devsecops)**
+**[View All Labs for This Course →](LAB_LISTINGS.md#cip-a110-cloud-security-automation)**
 
 **Course Code:** CIP-A110
 **Course Title:** Cloud Security Automation
