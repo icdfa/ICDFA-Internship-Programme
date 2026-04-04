@@ -93,12 +93,19 @@ Interns must choose one track at the time of enrolment. The following rules appl
 
 ### CIP-A101: Linux Systems Fundamentals I
 
+
 **Course Code:** CIP-A101
+
 **Course Title:** Linux Systems Fundamentals I
+
 **Duration:** 3 Weeks (Weeks 1-3)
+
 **Platform:** NDG NETLAB+
+
 **Certification Alignment:** LPI LPIC-1 101
+
 **Description:** Gain the skills needed to perform maintenance tasks on the command line, install and configure a computer running Linux, and configure basic networking.
+
 
 **Modules and Chapters:**
 
@@ -144,6 +151,7 @@ Module 8: System Software
 - Chapter 25: Managing Shared Libraries
 - Chapter 26: Virtualization
 
+
 **Labs:**
 
 | Lab | Title |
@@ -170,6 +178,7 @@ Module 8: System Software
 | Lab 24 | Package Management |
 | Lab 25 | Managing Shared Libraries |
 
+
 **Assessments:**
 - Chapter Exams: Exam 1 through Exam 26
 - Midterm Exam (Chapters 1-14)
@@ -181,12 +190,19 @@ Module 8: System Software
 
 ### CIP-A102: Linux Systems Fundamentals II
 
+
 **Course Code:** CIP-A102
+
 **Course Title:** Linux Systems Fundamentals II
+
 **Duration:** 3 Weeks (Weeks 4-6)
+
 **Platform:** NDG NETLAB+
+
 **Certification Alignment:** LPI LPIC-1 102
+
 **Description:** Gain the skills needed to perform maintenance tasks on the command line, install and configure a computer running Linux, and configure basic networking.
+
 
 **Modules and Chapters:**
 
@@ -220,6 +236,7 @@ Module 6: System Security
 - Chapter 17: Host Security
 - Chapter 18: Encryption
 
+
 **Labs:**
 
 | Lab | Title |
@@ -243,6 +260,7 @@ Module 6: System Security
 | Lab 17 | Host Security |
 | Lab 18 | Encryption |
 
+
 **Assessments:**
 - Chapter Exams: Exam 1 through Exam 18
 - Midterm Exam (Chapters 1-8)
@@ -254,11 +272,17 @@ Module 6: System Security
 
 ### CIP-A103: Network Defence & Traffic Analysis
 
+
 **Course Code:** CIP-A103
+
 **Course Title:** Network Defence & Traffic Analysis
+
 **Duration:** 2 Weeks (Weeks 7-8)
+
 **Platform:** NDG NETLAB+ / Palo Alto Networks
+
 **Description:** Learn the fundamentals of network security including concepts you must understand to recognise and potentially defend home networks and mission-critical infrastructure.
+
 
 **Labs:**
 
@@ -277,11 +301,17 @@ Module 6: System Security
 
 ### CIP-A104: Offensive Security Operations I
 
+
 **Course Code:** CIP-A104
+
 **Course Title:** Offensive Security Operations I
+
 **Duration:** 3 Weeks (Weeks 9-11)
+
 **Platform:** NDG NETLAB+
+
 **Description:** Prepare for a variety of IT positions, including Cyber Security Analyst, Penetration Tester, Ethical Hacker, Security Engineer, and Cyber Security Engineer. Series 1 covers reconnaissance, scanning, vulnerability assessment, exploitation, and social engineering.
+
 
 **Labs:**
 
@@ -312,11 +342,17 @@ Module 6: System Security
 
 ### CIP-A105: Offensive Security Operations II
 
+
 **Course Code:** CIP-A105
+
 **Course Title:** Offensive Security Operations II
+
 **Duration:** 2 Weeks (Weeks 12-13)
+
 **Platform:** NDG NETLAB+
+
 **Description:** Continuation of NDG Ethical Hacking v2. Series 2 covers advanced scanning methodology, enumeration, system hacking, web-based hacking, mobile hacking, and cryptography.
+
 
 **Labs:**
 
@@ -337,11 +373,17 @@ Module 6: System Security
 
 ### CIP-A106: Critical Infrastructure Critical Infrastructure & ICS Security
 
+
 **Course Code:** CIP-A106
+
 **Course Title:** Critical Infrastructure Critical Infrastructure & ICS Security
+
 **Duration:** 3 Weeks (Weeks 14-16)
+
 **Platform:** NDG NETLAB+
+
 **Description:** Gain hands-on experience with key Critical Infrastructure (CI) cybersecurity concepts, including PLCs, HMIs, SCADA systems, Modbus, and related protocols.
+
 
 **Labs:**
 
@@ -368,11 +410,17 @@ Module 6: System Security
 
 ### CIP-A107: Security Operations Centre (SOC) Essentials
 
+
 **Course Code:** CIP-A107
+
 **Course Title:** Security Operations Centre (SOC) Essentials
+
 **Duration:** 2 Weeks (Weeks 17-18)
+
 **Platform:** NDG NETLAB+ / Palo Alto Networks
+
 **Description:** A high-level introduction to the general concepts of SOC (Security Operations Center) and SecOps (Security Operations Procedures).
+
 
 **Labs:**
 
@@ -391,12 +439,19 @@ Module 6: System Security
 
 ### CIP-A108: Applied Security Engineering
 
+
 **Course Code:** CIP-A108
+
 **Course Title:** Applied Security Engineering
+
 **Duration:** 3 Weeks (Weeks 19-21)
+
 **Platform:** NDG NETLAB+
+
 **Certification Alignment:** CompTIA Security+
+
 **Description:** Gain hands-on practice in the skills needed to secure a network and prepare for industry certification.
+
 
 **Labs:**
 
@@ -434,11 +489,17 @@ Module 6: System Security
 
 ### CIP-A109: Cloud Security Architecture
 
+
 **Course Code:** CIP-A109
+
 **Course Title:** Cloud Security Architecture
+
 **Duration:** 2 Weeks (Weeks 22-23)
+
 **Platform:** NDG NETLAB+ / Palo Alto Networks
+
 **Description:** Learn the fundamentals of cloud security, including concepts you must understand to recognise threats and potentially defend from cloud-based attacks.
+
 
 **Labs:**
 
@@ -460,11 +521,17 @@ Module 6: System Security
 
 **[View All Labs for This Course →](LAB_LISTINGS.md#cip-a110-cloud-security-automation-devsecops)**
 
+
 **Course Code:** CIP-A110
+
 **Course Title:** Cloud Security Automation & DevSecOps
+
 **Duration:** 2 Weeks (Weeks 24-25)
+
 **Platform:** NDG NETLAB+ / Palo Alto Networks
+
 **Description:** Learn the fundamentals of cloud security automation with Kubernetes, Minikube, DevSecOps practices, vulnerability management, and the MITRE ATT&CK framework.
+
 
 **Labs:**
 
@@ -493,12 +560,19 @@ Module 6: System Security
 
 ### CIP-B101: Linux Systems Fundamentals I
 
+
 **Course Code:** CIP-B101
+
 **Course Title:** Linux Systems Fundamentals I
+
 **Duration:** 3 Weeks (Weeks 1-3)
+
 **Platform:** NDG NETLAB+
+
 **Certification Alignment:** LPI LPIC-1 101
+
 **Description:** Gain the skills needed to perform maintenance tasks on the command line, install and configure a computer running Linux, and configure basic networking.
+
 
 **Modules and Chapters:**
 
@@ -544,6 +618,7 @@ Module 8: System Software
 - Chapter 25: Managing Shared Libraries
 - Chapter 26: Virtualization
 
+
 **Labs:**
 
 | Lab | Title |
@@ -570,6 +645,7 @@ Module 8: System Software
 | Lab 24 | Package Management |
 | Lab 25 | Managing Shared Libraries |
 
+
 **Assessments:**
 - Chapter Exams: Exam 1 through Exam 26
 - Midterm Exam (Chapters 1-14)
@@ -581,12 +657,19 @@ Module 8: System Software
 
 ### CIP-B102: Linux Systems Fundamentals II
 
+
 **Course Code:** CIP-B102
+
 **Course Title:** Linux Systems Fundamentals II
+
 **Duration:** 3 Weeks (Weeks 4-6)
+
 **Platform:** NDG NETLAB+
+
 **Certification Alignment:** LPI LPIC-1 102
+
 **Description:** Gain the skills needed to perform maintenance tasks on the command line, install and configure a computer running Linux, and configure basic networking.
+
 
 **Modules and Chapters:**
 
@@ -620,6 +703,7 @@ Module 6: System Security
 - Chapter 17: Host Security
 - Chapter 18: Encryption
 
+
 **Labs:**
 
 | Lab | Title |
@@ -643,6 +727,7 @@ Module 6: System Security
 | Lab 17 | Host Security |
 | Lab 18 | Encryption |
 
+
 **Assessments:**
 - Chapter Exams: Exam 1 through Exam 18
 - Midterm Exam (Chapters 1-8)
@@ -654,11 +739,17 @@ Module 6: System Security
 
 ### CIP-B103: Network Defence & Traffic Analysis
 
+
 **Course Code:** CIP-B103
+
 **Course Title:** Network Defence & Traffic Analysis
+
 **Duration:** 2 Weeks (Weeks 7-8)
+
 **Platform:** NDG NETLAB+ / Palo Alto Networks
+
 **Description:** Learn the fundamentals of network security including concepts you must understand to recognise and potentially defend home networks and mission-critical infrastructure.
+
 
 **Labs:**
 
@@ -677,12 +768,19 @@ Module 6: System Security
 
 ### CIP-B104: Applied Security Engineering
 
+
 **Course Code:** CIP-B104
+
 **Course Title:** Applied Security Engineering
+
 **Duration:** 4 Weeks (Weeks 9-12)
+
 **Platform:** NDG NETLAB+
+
 **Certification Alignment:** CompTIA Security+
+
 **Description:** Gain hands-on practice in the skills needed to secure a network and prepare for industry certification.
+
 
 **Labs:**
 
@@ -720,11 +818,17 @@ Module 6: System Security
 
 ### CIP-B105: Digital Forensics Digital Forensics & Evidence Analysis
 
+
 **Course Code:** CIP-B105
+
 **Course Title:** Digital Forensics Digital Forensics & Evidence Analysis
+
 **Duration:** 4 Weeks (Weeks 13-16)
+
 **Platform:** NDG NETLAB+
+
 **Description:** Prepare for a variety of IT positions, including Computer Forensic Analyst, Digital Forensic Examiner, Digital Forensics Incident Response, and Security Administrator.
+
 
 **Labs:**
 
@@ -758,11 +862,17 @@ Module 6: System Security
 
 ### CIP-B106: Security Operations Centre (SOC) Essentials
 
+
 **Course Code:** CIP-B106
+
 **Course Title:** Security Operations Centre (SOC) Essentials
+
 **Duration:** 2 Weeks (Weeks 17-18)
+
 **Platform:** NDG NETLAB+ / Palo Alto Networks
+
 **Description:** A high-level introduction to the general concepts of SOC (Security Operations Center) and SecOps (Security Operations Procedures).
+
 
 **Labs:**
 
@@ -781,10 +891,15 @@ Module 6: System Security
 
 ### CIP-B107: Advanced Forensic Investigations
 
+
 **Course Code:** CIP-B107
+
 **Course Title:** Advanced Forensic Investigations
+
 **Duration:** 7 Weeks (Weeks 19-25)
+
 **Platform:** Independent Study / ICDFA Resources
+
 **Description:** An independent, research-driven course where interns study and analyse real-world digital forensics cases. Interns will examine landmark forensic investigations, apply forensic methodologies learned in previous courses, and produce professional forensic reports. This course bridges the gap between lab-based learning and real-world forensic practice.
 
 **Case Study Units:**
