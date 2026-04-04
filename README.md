@@ -74,11 +74,11 @@ Both tracks share a common foundation in Linux systems administration and networ
 
 Interns must choose one track at the time of enrolment. The following rules apply:
 
--- Interns cannot enrol in both tracks simultaneously.
--- Interns must complete their selected track in full, including all labs, exams, and assessments, before they are eligible to apply for the second track.
--- There is no automatic enrolment into the second track. Interns who wish to pursue the second track must submit a new application after completing the first.
--- Credits and completed courses from one track that overlap with the other track (e.g., Linux Systems Fundamentals I, Linux Systems Fundamentals II, Network Defence & Traffic Analysis) may be recognised, subject to approval by the Director of Training.
--- Interns who fail or withdraw from a track must wait for the next available intake to re-apply.
+- Interns cannot enrol in both tracks simultaneously.
+- Interns must complete their selected track in full, including all labs, exams, and assessments, before they are eligible to apply for the second track.
+- There is no automatic enrolment into the second track. Interns who wish to pursue the second track must submit a new application after completing the first.
+- Credits and completed courses from one track that overlap with the other track (e.g., Linux Systems Fundamentals I, Linux Systems Fundamentals II, Network Defence & Traffic Analysis) may be recognised, subject to approval by the Director of Training.
+- Interns who fail or withdraw from a track must wait for the next available intake to re-apply.
 
 ---
 
