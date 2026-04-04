@@ -17,24 +17,24 @@
 2. [Programme Structure](#2-programme-structure)
 3. [Track Selection Policy](#3-track-selection-policy)
 4. [Track A: Ethical Hacking](#4-track-a-ethical-hacking)
-   - [CIP-A101: Linux Systems Fundamentals I](#cip-a101-introduction-to-linux-1)
-   - [CIP-A102: Linux Systems Fundamentals II](#cip-a102-introduction-to-linux-2)
-   - [CIP-A103: Network Defence Network Security Fundamentals Traffic Analysis](#cip-a103-network-security-fundamentals)
-   - [CIP-A104: Offensive Security Operations I](#cip-a104-ndg-ethical-hacking-v2--series-1)
-   - [CIP-A105: Offensive Security Operations II](#cip-a105-ndg-ethical-hacking-v2--series-2)
-   - [CIP-A106: Critical Infrastructure Intro to Critical Infrastructure ICS Security](#cip-a106-intro-to-critical-infrastructure)
-   - [CIP-A107: Security Operations Centre (SOC) Essentials](#cip-a107-security-operations-fundamentals)
-   - [CIP-A108: Applied Security Engineering](#cip-a108-ndg-security-v4)
-   - [CIP-A109: Cloud Security Architecture](#cip-a109-cloud-security-fundamentals)
-   - [CIP-A110: Cloud Security Automation Cloud Security Automation DevSecOps](#cip-a110-cloud-security-automation)
+   - [CIP-A101: Linux Systems Fundamentals I](#cip-a101-linux-systems-fundamentals-i)
+   - [CIP-A102: Linux Systems Fundamentals II](#cip-a102-linux-systems-fundamentals-ii)
+   - [CIP-A103: Network Defence & Traffic Analysis](#cip-a103-network-defence-traffic-analysis)
+   - [CIP-A104: Offensive Security Operations I](#cip-a104-offensive-security-operations-i)
+   - [CIP-A105: Offensive Security Operations II](#cip-a105-offensive-security-operations-ii)
+   - [CIP-A106: Critical Infrastructure Critical Infrastructure & ICS Security](#cip-a106-critical-infrastructure-ics-security)
+   - [CIP-A107: Security Operations Centre (SOC) Essentials](#cip-a107-security-operations-centre-soc-essentials)
+   - [CIP-A108: Applied Security Engineering](#cip-a108-applied-security-engineering)
+   - [CIP-A109: Cloud Security Architecture](#cip-a109-cloud-security-architecture)
+   - [CIP-A110: Cloud Security Automation & DevSecOps](#cip-a110-cloud-security-automation-devsecops)
 5. [Track B: Digital Forensics](#5-track-b-digital-forensics)
-   - [CIP-B101: Linux Systems Fundamentals I](#cip-b101-introduction-to-linux-1)
-   - [CIP-B102: Linux Systems Fundamentals II](#cip-b102-introduction-to-linux-2)
-   - [CIP-B103: Network Defence Network Security Fundamentals Traffic Analysis](#cip-b103-network-security-fundamentals)
-   - [CIP-B104: Applied Security Engineering](#cip-b104-ndg-security-v4)
-   - [CIP-B105: Digital Forensics NDG Forensics v2 Evidence Analysis](#cip-b105-ndg-forensics-v2)
-   - [CIP-B106: Security Operations Centre (SOC) Essentials](#cip-b106-security-operations-fundamentals)
-   - [CIP-B107: Advanced Forensic Investigations](#cip-b107-forensics-case-studies)
+   - [CIP-B101: Linux Systems Fundamentals I](#cip-b101-linux-systems-fundamentals-i)
+   - [CIP-B102: Linux Systems Fundamentals II](#cip-b102-linux-systems-fundamentals-ii)
+   - [CIP-B103: Network Defence & Traffic Analysis](#cip-b103-network-defence-traffic-analysis)
+   - [CIP-B104: Applied Security Engineering](#cip-b104-applied-security-engineering)
+   - [CIP-B105: Digital Forensics Digital Forensics & Evidence Analysis](#cip-b105-digital-forensics-evidence-analysis)
+   - [CIP-B106: Security Operations Centre (SOC) Essentials](#cip-b106-security-operations-centre-soc-essentials)
+   - [CIP-B107: Advanced Forensic Investigations](#cip-b107-advanced-forensic-investigations)
 6. [Weekly Schedule -- Track A: Ethical Hacking](#6-weekly-schedule--track-a-ethical-hacking)
 7. [Weekly Schedule -- Track B: Digital Forensics](#7-weekly-schedule--track-b-digital-forensics)
 8. [Assessment Framework](#8-assessment-framework)
@@ -77,7 +77,7 @@ Interns must choose one track at the time of enrolment. The following rules appl
 -- Interns cannot enrol in both tracks simultaneously.
 -- Interns must complete their selected track in full, including all labs, exams, and assessments, before they are eligible to apply for the second track.
 -- There is no automatic enrolment into the second track. Interns who wish to pursue the second track must submit a new application after completing the first.
--- Credits and completed courses from one track that overlap with the other track (e.g., Linux Systems Fundamentals I, Linux Systems Fundamentals II, Network Defence Network Security Fundamentals Traffic Analysis) may be recognised, subject to approval by the Director of Training.
+-- Credits and completed courses from one track that overlap with the other track (e.g., Linux Systems Fundamentals I, Linux Systems Fundamentals II, Network Defence & Traffic Analysis) may be recognised, subject to approval by the Director of Training.
 -- Interns who fail or withdraw from a track must wait for the next available intake to re-apply.
 
 ---
@@ -252,10 +252,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A103: Network Defence Network Security Fundamentals Traffic Analysis
+### CIP-A103: Network Defence & Traffic Analysis
 
 **Course Code:** CIP-A103
-**Course Title:** Network Defence Network Security Fundamentals Traffic Analysis
+**Course Title:** Network Defence & Traffic Analysis
 **Duration:** 2 Weeks (Weeks 7-8)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of network security including concepts you must understand to recognise and potentially defend home networks and mission-critical infrastructure.
@@ -335,10 +335,10 @@ Module 6: System Security
 
 ---
 
-### CIP-A106: Critical Infrastructure Intro to Critical Infrastructure ICS Security
+### CIP-A106: Critical Infrastructure Critical Infrastructure & ICS Security
 
 **Course Code:** CIP-A106
-**Course Title:** Critical Infrastructure Intro to Critical Infrastructure ICS Security
+**Course Title:** Critical Infrastructure Critical Infrastructure & ICS Security
 **Duration:** 3 Weeks (Weeks 14-16)
 **Platform:** NDG NETLAB+
 **Description:** Gain hands-on experience with key Critical Infrastructure (CI) cybersecurity concepts, including PLCs, HMIs, SCADA systems, Modbus, and related protocols.
@@ -456,12 +456,12 @@ Module 6: System Security
 
 ---
 
-### CIP-A110: Cloud Security Automation Cloud Security Automation DevSecOps
+### CIP-A110: Cloud Security Automation & DevSecOps
 
-**[View All Labs for This Course →](LAB_LISTINGS.md#cip-a110-cloud-security-automation)**
+**[View All Labs for This Course →](LAB_LISTINGS.md#cip-a110-cloud-security-automation-devsecops)**
 
 **Course Code:** CIP-A110
-**Course Title:** Cloud Security Automation Cloud Security Automation DevSecOps
+**Course Title:** Cloud Security Automation & DevSecOps
 **Duration:** 2 Weeks (Weeks 24-25)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of cloud security automation with Kubernetes, Minikube, DevSecOps practices, vulnerability management, and the MITRE ATT&CK framework.
@@ -652,10 +652,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B103: Network Defence Network Security Fundamentals Traffic Analysis
+### CIP-B103: Network Defence & Traffic Analysis
 
 **Course Code:** CIP-B103
-**Course Title:** Network Defence Network Security Fundamentals Traffic Analysis
+**Course Title:** Network Defence & Traffic Analysis
 **Duration:** 2 Weeks (Weeks 7-8)
 **Platform:** NDG NETLAB+ / Palo Alto Networks
 **Description:** Learn the fundamentals of network security including concepts you must understand to recognise and potentially defend home networks and mission-critical infrastructure.
@@ -718,10 +718,10 @@ Module 6: System Security
 
 ---
 
-### CIP-B105: Digital Forensics NDG Forensics v2 Evidence Analysis
+### CIP-B105: Digital Forensics Digital Forensics & Evidence Analysis
 
 **Course Code:** CIP-B105
-**Course Title:** Digital Forensics NDG Forensics v2 Evidence Analysis
+**Course Title:** Digital Forensics Digital Forensics & Evidence Analysis
 **Duration:** 4 Weeks (Weeks 13-16)
 **Platform:** NDG NETLAB+
 **Description:** Prepare for a variety of IT positions, including Computer Forensic Analyst, Digital Forensic Examiner, Digital Forensics Incident Response, and Security Administrator.
@@ -845,16 +845,16 @@ Unit 7: Capstone Forensic Investigation (Week 25)
 | Week 04 | CIP-A102 | Linux Systems Fundamentals II | Lab 01 - Lab 08 |
 | Week 05 | CIP-A102 | Linux Systems Fundamentals II | Lab 09 - Lab 15, Midterm |
 | Week 06 | CIP-A102 | Linux Systems Fundamentals II | Lab 16 - Lab 18, Final Exams |
-| Week 07 | CIP-A103 | Network Defence Network Security Fundamentals Traffic Analysis | Lab 01 - Lab 04 |
-| Week 08 | CIP-A103 | Network Defence Network Security Fundamentals Traffic Analysis | Lab 05 - Lab 08 |
+| Week 07 | CIP-A103 | Network Defence & Traffic Analysis | Lab 01 - Lab 04 |
+| Week 08 | CIP-A103 | Network Defence & Traffic Analysis | Lab 05 - Lab 08 |
 | Week 09 | CIP-A104 | Offensive Security Operations I | Lab 01 - Lab 06 |
 | Week 10 | CIP-A104 | Offensive Security Operations I | Lab 07 - Lab 12 |
 | Week 11 | CIP-A104 | Offensive Security Operations I | Lab 13 - Lab 18, Cyber Range |
 | Week 12 | CIP-A105 | Offensive Security Operations II | Lab 19 - Lab 22 |
 | Week 13 | CIP-A105 | Offensive Security Operations II | Lab 23 - Lab 26, Cyber Range |
-| Week 14 | CIP-A106 | Critical Infrastructure Intro to Critical Infrastructure ICS Security | Lab 01 - Lab 05 |
-| Week 15 | CIP-A106 | Critical Infrastructure Intro to Critical Infrastructure ICS Security | Lab 06 - Lab 10 |
-| Week 16 | CIP-A106 | Critical Infrastructure Intro to Critical Infrastructure ICS Security | Lab 11 - Lab 14, Cyber Range |
+| Week 14 | CIP-A106 | Critical Infrastructure Critical Infrastructure & ICS Security | Lab 01 - Lab 05 |
+| Week 15 | CIP-A106 | Critical Infrastructure Critical Infrastructure & ICS Security | Lab 06 - Lab 10 |
+| Week 16 | CIP-A106 | Critical Infrastructure Critical Infrastructure & ICS Security | Lab 11 - Lab 14, Cyber Range |
 | Week 17 | CIP-A107 | Security Operations Centre (SOC) Essentials | Lab 01 - Lab 04 |
 | Week 18 | CIP-A107 | Security Operations Centre (SOC) Essentials | Lab 05 - Lab 08 |
 | Week 19 | CIP-A108 | Applied Security Engineering | Lab 01 - Lab 08 |
@@ -862,8 +862,8 @@ Unit 7: Capstone Forensic Investigation (Week 25)
 | Week 21 | CIP-A108 | Applied Security Engineering | Lab 18 - Lab 25, Cyber Range |
 | Week 22 | CIP-A109 | Cloud Security Architecture | Lab 01 - Lab 05 |
 | Week 23 | CIP-A109 | Cloud Security Architecture | Lab 06 - Lab 09 |
-| Week 24 | CIP-A110 | Cloud Security Automation Cloud Security Automation DevSecOps | Lab 01 - Lab 04 |
-| Week 25 | CIP-A110 | Cloud Security Automation Cloud Security Automation DevSecOps | Lab 05 - Lab 07 |
+| Week 24 | CIP-A110 | Cloud Security Automation & DevSecOps | Lab 01 - Lab 04 |
+| Week 25 | CIP-A110 | Cloud Security Automation & DevSecOps | Lab 05 - Lab 07 |
 | Week 26 | -- | Final Assessment and Programme Wrap-Up | Capstone Review |
 
 ---
@@ -878,16 +878,16 @@ Unit 7: Capstone Forensic Investigation (Week 25)
 | Week 04 | CIP-B102 | Linux Systems Fundamentals II | Lab 01 - Lab 08 |
 | Week 05 | CIP-B102 | Linux Systems Fundamentals II | Lab 09 - Lab 15, Midterm |
 | Week 06 | CIP-B102 | Linux Systems Fundamentals II | Lab 16 - Lab 18, Final Exams |
-| Week 07 | CIP-B103 | Network Defence Network Security Fundamentals Traffic Analysis | Lab 01 - Lab 04 |
-| Week 08 | CIP-B103 | Network Defence Network Security Fundamentals Traffic Analysis | Lab 05 - Lab 08 |
+| Week 07 | CIP-B103 | Network Defence & Traffic Analysis | Lab 01 - Lab 04 |
+| Week 08 | CIP-B103 | Network Defence & Traffic Analysis | Lab 05 - Lab 08 |
 | Week 09 | CIP-B104 | Applied Security Engineering | Lab 01 - Lab 06 |
 | Week 10 | CIP-B104 | Applied Security Engineering | Lab 07 - Lab 13 |
 | Week 11 | CIP-B104 | Applied Security Engineering | Lab 14 - Lab 19 |
 | Week 12 | CIP-B104 | Applied Security Engineering | Lab 20 - Lab 25, Cyber Range |
-| Week 13 | CIP-B105 | Digital Forensics NDG Forensics v2 Evidence Analysis | Lab 01 - Lab 05 |
-| Week 14 | CIP-B105 | Digital Forensics NDG Forensics v2 Evidence Analysis | Lab 06 - Lab 11 |
-| Week 15 | CIP-B105 | Digital Forensics NDG Forensics v2 Evidence Analysis | Lab 12 - Lab 16 |
-| Week 16 | CIP-B105 | Digital Forensics NDG Forensics v2 Evidence Analysis | Lab 17 - Lab 21, Cyber Range |
+| Week 13 | CIP-B105 | Digital Forensics Digital Forensics & Evidence Analysis | Lab 01 - Lab 05 |
+| Week 14 | CIP-B105 | Digital Forensics Digital Forensics & Evidence Analysis | Lab 06 - Lab 11 |
+| Week 15 | CIP-B105 | Digital Forensics Digital Forensics & Evidence Analysis | Lab 12 - Lab 16 |
+| Week 16 | CIP-B105 | Digital Forensics Digital Forensics & Evidence Analysis | Lab 17 - Lab 21, Cyber Range |
 | Week 17 | CIP-B106 | Security Operations Centre (SOC) Essentials | Lab 01 - Lab 04 |
 | Week 18 | CIP-B106 | Security Operations Centre (SOC) Essentials | Lab 05 - Lab 08 |
 | Week 19 | CIP-B107 | Advanced Forensic Investigations | Unit 1: Corporate Data Breach Investigation |
