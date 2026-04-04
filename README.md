@@ -2,7 +2,7 @@
 
 ## Cybersecurity Internship Programme (CIP)
 
-**Version:** 1.0  
+**Version:** 2.0  
 **Approved by:** ICDFA Training Board  
 **Effective Date:** April 2026  
 **Programme Duration:** 6 Months per Track (26 Weeks)  
