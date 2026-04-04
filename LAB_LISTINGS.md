@@ -8,31 +8,31 @@
 ## Table of Contents
 
 ### Track A: Ethical Hacking
-- [CIP-A101: Linux Systems Fundamentals I](#cip-a101-linux-systems-fundamentals-i)
-- [CIP-A102: Linux Systems Fundamentals II](#cip-a102-linux-systems-fundamentals-ii)
-- [CIP-A103: Network Defence & Traffic Analysis](#cip-a103-network-defence--traffic-analysis)
-- [CIP-A104: Offensive Security Operations I](#cip-a104-offensive-security-operations-i)
-- [CIP-A105: Offensive Security Operations II](#cip-a105-offensive-security-operations-ii)
-- [CIP-A106: Critical Infrastructure & ICS Security](#cip-a106-critical-infrastructure--ics-security)
-- [CIP-A107: Security Operations Centre (SOC) Essentials](#cip-a107-security-operations-centre-soc-essentials)
-- [CIP-A108: Applied Security Engineering](#cip-a108-applied-security-engineering)
-- [CIP-A109: Cloud Security Architecture](#cip-a109-cloud-security-architecture)
-- [CIP-A110: Cloud Security Automation & DevSecOps](#cip-a110-cloud-security-automation--devsecops)
+- [CIP-A101: Introduction to Linux 1](#cip-a101-linux-systems-fundamentals-i)
+- [CIP-A102: Introduction to Linux 1I](#cip-a102-linux-systems-fundamentals-ii)
+- [CIP-A103: Network Security Fundamentals](#cip-a103-network-defence--traffic-analysis)
+- [CIP-A104: NDG Ethical Hacking v2 -- Series 1](#cip-a104-offensive-security-operations-i)
+- [CIP-A105: NDG Ethical Hacking v2 -- Series 1I](#cip-a105-offensive-security-operations-ii)
+- [CIP-A106: Intro to Critical Infrastructure](#cip-a106-critical-infrastructure--ics-security)
+- [CIP-A107: Security Operations Fundamentals](#cip-a107-security-operations-centre-soc-essentials)
+- [CIP-A108: NDG Security+ v4](#cip-a108-applied-security-engineering)
+- [CIP-A109: Cloud Security Fundamentals](#cip-a109-cloud-security-architecture)
+- [CIP-A110: Cloud Security Automation](#cip-a110-cloud-security-automation--devsecops)
 
 ### Track B: Digital Forensics
-- [CIP-B101: Linux Systems Fundamentals I](#cip-b101-linux-systems-fundamentals-i)
-- [CIP-B102: Linux Systems Fundamentals II](#cip-b102-linux-systems-fundamentals-ii)
-- [CIP-B103: Network Defence & Traffic Analysis](#cip-b103-network-defence--traffic-analysis)
-- [CIP-B104: Applied Security Engineering](#cip-b104-applied-security-engineering)
-- [CIP-B105: Digital Forensics & Evidence Analysis](#cip-b105-digital-forensics--evidence-analysis)
-- [CIP-B106: Security Operations Centre (SOC) Essentials](#cip-b106-security-operations-centre-soc-essentials)
-- [CIP-B107: Advanced Forensic Investigations](#cip-b107-advanced-forensic-investigations)
+- [CIP-B101: Introduction to Linux 1](#cip-b101-linux-systems-fundamentals-i)
+- [CIP-B102: Introduction to Linux 1I](#cip-b102-linux-systems-fundamentals-ii)
+- [CIP-B103: Network Security Fundamentals](#cip-b103-network-defence--traffic-analysis)
+- [CIP-B104: NDG Security+ v4](#cip-b104-applied-security-engineering)
+- [CIP-B105: NDG Forensics v2](#cip-b105-digital-forensics--evidence-analysis)
+- [CIP-B106: Security Operations Fundamentals](#cip-b106-security-operations-centre-soc-essentials)
+- [CIP-B107: Forensics Case Studies](#cip-b107-advanced-forensic-investigations)
 
 ---
 
 ## TRACK A: ETHICAL HACKING
 
-### CIP-A101: Linux Systems Fundamentals I
+### CIP-A101: Introduction to Linux 1
 
 **Duration:** 3 Weeks (Weeks 1-3)  
 **Platform:** NDG NETLAB+  
@@ -64,7 +64,7 @@
 
 ---
 
-### CIP-A102: Linux Systems Fundamentals II
+### CIP-A102: Introduction to Linux 1I
 
 **Duration:** 3 Weeks (Weeks 4-6)  
 **Platform:** NDG NETLAB+  
@@ -93,7 +93,7 @@
 
 ---
 
-### CIP-A103: Network Defence & Traffic Analysis
+### CIP-A103: Network Security Fundamentals
 
 **Duration:** 2 Weeks (Weeks 7-8)  
 **Platform:** NDG NETLAB+ / Palo Alto Networks  
@@ -112,7 +112,7 @@
 
 ---
 
-### CIP-A104: Offensive Security Operations I
+### CIP-A104: NDG Ethical Hacking v2 -- Series 1
 
 **Duration:** 3 Weeks (Weeks 9-11)  
 **Platform:** NDG NETLAB+  
@@ -141,7 +141,7 @@
 
 ---
 
-### CIP-A105: Offensive Security Operations II
+### CIP-A105: NDG Ethical Hacking v2 -- Series 1I
 
 **Duration:** 2 Weeks (Weeks 12-13)  
 **Platform:** NDG NETLAB+  
@@ -160,7 +160,7 @@
 
 ---
 
-### CIP-A106: Critical Infrastructure & ICS Security
+### CIP-A106: Intro to Critical Infrastructure
 
 **Duration:** 3 Weeks (Weeks 14-16)  
 **Platform:** NDG NETLAB+  
@@ -185,7 +185,7 @@
 
 ---
 
-### CIP-A107: Security Operations Centre (SOC) Essentials
+### CIP-A107: Security Operations Fundamentals
 
 **Duration:** 2 Weeks (Weeks 17-18)  
 **Platform:** NDG NETLAB+ / Palo Alto Networks  
@@ -204,7 +204,7 @@
 
 ---
 
-### CIP-A108: Applied Security Engineering
+### CIP-A108: NDG Security+ v4
 
 **Duration:** 3 Weeks (Weeks 19-21)  
 **Platform:** NDG NETLAB+  
@@ -240,7 +240,7 @@
 
 ---
 
-### CIP-A109: Cloud Security Architecture
+### CIP-A109: Cloud Security Fundamentals
 
 **Duration:** 2 Weeks (Weeks 22-23)  
 **Platform:** NDG NETLAB+ / Palo Alto Networks  
@@ -260,7 +260,7 @@
 
 ---
 
-### CIP-A110: Cloud Security Automation & DevSecOps
+### CIP-A110: Cloud Security Automation
 
 **Duration:** 2 Weeks (Weeks 24-25)  
 **Platform:** NDG NETLAB+ / Palo Alto Networks  
@@ -280,7 +280,7 @@
 
 ## TRACK B: DIGITAL FORENSICS
 
-### CIP-B101: Linux Systems Fundamentals I
+### CIP-B101: Introduction to Linux 1
 
 **Duration:** 3 Weeks (Weeks 1-3)  
 **Platform:** NDG NETLAB+  
@@ -290,7 +290,7 @@
 
 ---
 
-### CIP-B102: Linux Systems Fundamentals II
+### CIP-B102: Introduction to Linux 1I
 
 **Duration:** 3 Weeks (Weeks 4-6)  
 **Platform:** NDG NETLAB+  
@@ -300,7 +300,7 @@
 
 ---
 
-### CIP-B103: Network Defence & Traffic Analysis
+### CIP-B103: Network Security Fundamentals
 
 **Duration:** 2 Weeks (Weeks 7-8)  
 **Platform:** NDG NETLAB+ / Palo Alto Networks  
@@ -310,7 +310,7 @@
 
 ---
 
-### CIP-B104: Applied Security Engineering
+### CIP-B104: NDG Security+ v4
 
 **Duration:** 4 Weeks (Weeks 9-12)  
 **Platform:** NDG NETLAB+  
@@ -320,7 +320,7 @@
 
 ---
 
-### CIP-B105: Digital Forensics & Evidence Analysis
+### CIP-B105: NDG Forensics v2
 
 **Duration:** 4 Weeks (Weeks 13-16)  
 **Platform:** NDG NETLAB+  
@@ -352,7 +352,7 @@
 
 ---
 
-### CIP-B106: Security Operations Centre (SOC) Essentials
+### CIP-B106: Security Operations Fundamentals
 
 **Duration:** 2 Weeks (Weeks 17-18)  
 **Platform:** NDG NETLAB+ / Palo Alto Networks  
@@ -362,7 +362,7 @@
 
 ---
 
-### CIP-B107: Advanced Forensic Investigations
+### CIP-B107: Forensics Case Studies
 
 **Duration:** 7 Weeks (Weeks 19-25)  
 **Platform:** Independent Study / ICDFA Resources  
