@@ -32,7 +32,7 @@
    - [CIP-B102: Linux Systems Fundamentals II](#cip-b102-linux-systems-fundamentals-ii)
    - [CIP-B103: Network Defence & Traffic Analysis](#cip-b103-network-defence-traffic-analysis)
    - [CIP-B104: Applied Security Engineering](#cip-b104-applied-security-engineering)
-   - [CIP-B105: Digital Forensics Digital Forensics & Evidence Analysis](#cip-b105-digital-forensics-evidence-analysis)
+   - [CIP-B105: Digital Forensics & Evidence Analysis](#cip-b105-digital-forensics-evidence-analysis)
    - [CIP-B106: Security Operations Centre (SOC) Essentials](#cip-b106-security-operations-centre-soc-essentials)
    - [CIP-B107: Advanced Forensic Investigations](#cip-b107-advanced-forensic-investigations)
 6. [Weekly Schedule -- Track A: Ethical Hacking](#6-weekly-schedule--track-a-ethical-hacking)
