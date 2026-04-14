@@ -20,13 +20,13 @@
 - [CIP-A110: Cloud Security Automation Cloud Security Automation DevSecOps](#cip-a110-cloud-security-automation--devsecops)
 
 ### Track B: Digital Forensics
-- [CIP-B101: Linux Systems Fundamentals I](#cip-b101-linux-systems-fundamentals-i)
-- [CIP-B102: Linux Systems Fundamentals II](#cip-b102-linux-systems-fundamentals-ii)
-- [CIP-B103: Network Defence Network Security Fundamentals Traffic Analysis](#cip-b103-network-defence--traffic-analysis)
-- [CIP-B104: Applied Security Engineering](#cip-b104-applied-security-engineering)
-- [CIP-B105: Digital Forensics NDG Forensics v2 Evidence Analysis](#cip-b105-digital-forensics--evidence-analysis)
-- [CIP-B106: Security Operations Centre (SOC) Essentials](#cip-b106-security-operations-centre-soc-essentials)
-- [CIP-B107: Advanced Forensic Investigations](#cip-b107-advanced-forensic-investigations)
+- [CIP-B101: Basic Computer Skills for Digital Forensics](#cip-b101-basic-computer-skills-for-digital-forensics)
+- [CIP-B102: Foundations of Computer and Digital Forensics](#cip-b102-foundations-of-computer-and-digital-forensics)
+- [CIP-B103: Network Forensics Fundamentals](#cip-b103-network-forensics-fundamentals)
+- [CIP-B104: Windows and Endpoint Forensics Casework](#cip-b104-windows-and-endpoint-forensics-casework)
+- [CIP-B105: Applied Investigative Case Studies](#cip-b105-applied-investigative-case-studies)
+- [CIP-B106: Mobile and IoT Forensics](#cip-b106-mobile-and-iot-forensics)
+- [CIP-B107: AI for Forensics and Capstone Intelligence Analysis](#cip-b107-ai-for-forensics-and-capstone-intelligence-analysis)
 
 ---
 
@@ -280,106 +280,172 @@
 
 ## TRACK B: DIGITAL FORENSICS
 
-### CIP-B101: Linux Systems Fundamentals I
+### CIP-B101: Basic Computer Skills for Digital Forensics
 
 **Duration:** 3 Weeks (Weeks 1-3)  
-**Platform:** NDG NETLAB+  
-**Total Labs:** 21
-
-*Same as CIP-A101 - See [CIP-A101 Lab Listings](#cip-a101-linux-systems-fundamentals-i)*
-
----
-
-### CIP-B102: Linux Systems Fundamentals II
-
-**Duration:** 3 Weeks (Weeks 4-6)  
-**Platform:** NDG NETLAB+  
-**Total Labs:** 18
-
-*Same as CIP-A102 - See [CIP-A102 Lab Listings](#cip-a102-linux-systems-fundamentals-ii)*
-
----
-
-### CIP-B103: Network Defence Network Security Fundamentals Traffic Analysis
-
-**Duration:** 2 Weeks (Weeks 7-8)  
-**Platform:** NDG NETLAB+ / Palo Alto Networks  
-**Total Labs:** 8
-
-*Same as CIP-A103 - See [CIP-A103 Lab Listings](#cip-a103-network-defence--traffic-analysis)*
-
----
-
-### CIP-B104: Applied Security Engineering
-
-**Duration:** 4 Weeks (Weeks 9-12)  
-**Platform:** NDG NETLAB+  
-**Total Labs:** 25
-
-*Same as CIP-A108 - See [CIP-A108 Lab Listings](#cip-a108-applied-security-engineering)*
-
----
-
-### CIP-B105: Digital Forensics NDG Forensics v2 Evidence Analysis
-
-**Duration:** 4 Weeks (Weeks 13-16)  
-**Platform:** NDG NETLAB+  
-**Total Labs:** 21
+**Platform:** Kali Linux / VirtualBox / Digital Forensics Lab resources  
+**Total Labs:** 5
 
 | Lab # | Lab Title |
 |-------|-----------|
-| Lab 01 | Creating a Forensic Image |
-| Lab 02 | Live Acquisition |
-| Lab 03 | Live Forensics |
-| Lab 04 | Registry Forensics |
-| Lab 05 | File Systems |
-| Lab 06 | Keyword Search and Analysis |
-| Lab 07 | Data Carving |
-| Lab 08 | Metadata and Link File Analysis |
-| Lab 09 | Recycle Bin Forensics |
-| Lab 10 | Steganography and Alternative Data Streams |
-| Lab 11 | Picture File Analysis |
-| Lab 12 | Email Analysis |
-| Lab 13 | Internet Browser Forensics |
-| Lab 14 | Timeline Analysis |
-| Lab 15 | IoT Forensics |
-| Lab 16 | Mobile Forensic Analysis |
-| Lab 17 | Log Capturing and Interpretation |
-| Lab 18 | Pagefile Analysis |
-| Lab 19 | Password Cracking |
-| Lab 20 | File Hashing and Hash Analysis |
-| Lab 21 | Chain of Custody |
+| Lab 01 | Number Systems |
+| Lab 02 | PC Introduction |
+| Lab 03 | Windows Command Line Tutorial |
+| Lab 04 | Linux Command Line Tutorial |
+| Lab 05 | Advanced Linux Command Line Tutorial |
 
 ---
 
-### CIP-B106: Security Operations Centre (SOC) Essentials
+### CIP-B102: Foundations of Computer and Digital Forensics
 
-**Duration:** 2 Weeks (Weeks 17-18)  
-**Platform:** NDG NETLAB+ / Palo Alto Networks  
+**Duration:** 3 Weeks (Weeks 4-6)  
+**Platform:** Kali Linux / Sleuth Kit / Digital Forensics Lab resources  
+**Total Labs:** 7
+
+| Lab # | Lab Title |
+|-------|-----------|
+| Lab 01 | Introduction to Digital Forensics |
+| Lab 02 | Sleuth Kit Tutorial |
+| Lab 03 | USB Image Acquisition |
+| Lab 04 | Evidence Search - A Pattern Match Game |
+| Lab 05 | Evidence Search - File Metadata |
+| Lab 06 | Data Carving |
+| Lab 07 | Steganography |
+
+---
+
+### CIP-B103: Network Forensics Fundamentals
+
+**Duration:** 2 Weeks (Weeks 7-8)  
+**Platform:** Wireshark / tshark / Scapy / Kali Linux  
+**Total Labs:** 9
+
+| Lab # | Lab Title |
+|-------|-----------|
+| Lab 01 | HTTP Analysis using Wireshark (Text) |
+| Lab 02 | HTTP Analysis using Wireshark (Image) |
+| Lab 03 | SYN Flood Attack Investigation using tshark |
+| Lab 04 | SMTP Forensics |
+| Lab 05 | ARP Poisoning Forensics |
+| Lab 06 | Firewall Log and Packet Drop Analysis |
+| Lab 07 | DNS Introduction |
+| Lab 08 | DNS Spoofing Forensics |
+| Lab 09 | WEP40 Wireless Aircrack Investigation |
+
+---
+
+### CIP-B104: Windows and Endpoint Forensics Casework
+
+**Duration:** 4 Weeks (Weeks 9-12)  
+**Platform:** Kali Linux / Autopsy / Registry and NTFS analysis tools / Public case datasets  
+**Total Labs:** 24
+
+| Lab # | Lab Title |
+|-------|-----------|
+| Lab 01 | Environment Setting Up |
+| Lab 02 | Windows Registry |
+| Lab 03 | Windows Event and XML |
+| Lab 04 | Web History and SQL |
+| Lab 05 | Email Investigation |
+| Lab 06 | File Change History and USN Journal |
+| Lab 07 | Network Evidence and Shellbag |
+| Lab 08 | Network Drive and Cloud |
+| Lab 09 | Master File Table ($MFT) and Log File Analysis |
+| Lab 10 | Windows Search History |
+| Lab 11 | Windows Volume Shadow Copy Analysis / SQL Database Carving |
+| Lab 12 | Recycle Bin and Anti-Forensics |
+| Lab 13 | Data Carving |
+| Lab 14 | Crack Windows Passwords |
+| Lab 15 | P2P Lab Environment Setting Up |
+| Lab 16 | Disk Image and Partitions |
+| Lab 17 | Windows Registry and File Directory |
+| Lab 18 | MFT Timeline |
+| Lab 19 | USN Journal Timeline |
+| Lab 20 | uTorrent Log File |
+| Lab 21 | File Signature Analysis |
+| Lab 22 | Email Evidence Analysis |
+| Lab 23 | Web History Investigation |
+| Lab 24 | Website Analysis and Timeline Summary |
+
+---
+
+### CIP-B105: Applied Investigative Case Studies
+
+**Duration:** 4 Weeks (Weeks 13-16)  
+**Platform:** Wireshark / tshark / Memory forensics tools / Case-based lab datasets  
+**Total Labs:** 12
+
+| Lab # | Lab Title |
+|-------|-----------|
+| Lab 01 | Review HTTP Analysis using Wireshark (Text) |
+| Lab 02 | Rhino Possession Investigation 1: File Recovering |
+| Lab 03 | Rhino Possession Investigation 2: Steganography |
+| Lab 04 | Rhino Possession Investigation 3: Extract Evidence from FTP Traffic |
+| Lab 05 | Rhino Possession Investigation 4: Extract Evidence from HTTP Traffic |
+| Lab 06 | Investigating Harassment Email using Wireshark |
+| Lab 07 | tshark Forensics Introduction |
+| Lab 08 | Investigating Harassment Email using tshark |
+| Lab 09 | Memory Forensics: Illegal File Transferring |
+| Lab 10 | Hacking Case Investigation |
+| Lab 11 | Morris Worm Attack |
+| Lab 12 | Investigating Morris Worm Attack |
+
+---
+
+### CIP-B106: Mobile and IoT Forensics
+
+**Duration:** 5 Weeks (Weeks 17-21)  
+**Platform:** Mobile forensic datasets / chip-off workflows / SQLite analysis / IoT evidence images  
+**Total Labs:** 25
+
+| Lab # | Lab Title |
+|-------|-----------|
+| Lab 01 | Doorbell Introduction |
+| Lab 02 | Doorbell Scenario Simulation |
+| Lab 03 | Doorbell Teardown Chip-off Image Acquisition |
+| Lab 04 | Doorbell Image Analysis and Mounting |
+| Lab 05 | Doorbell Evidence Extraction |
+| Lab 06 | Echo Show Introduction |
+| Lab 07 | Device Teardown and eMMC Chip-off |
+| Lab 08 | Image Acquisition and Mounting |
+| Lab 09 | Echo Show Web Activity |
+| Lab 10 | Echo Show Phone Communication |
+| Lab 11 | Echo Show Multimedia: Photos and Related Data |
+| Lab 12 | Echo Show Multimedia: Audio and Related Data |
+| Lab 13 | Intro Pixel 3 Android 10 |
+| Lab 14 | Pixel 3 Image |
+| Lab 15 | Pixel 3 Device Investigation |
+| Lab 16 | AOSP App Investigations: Messaging |
+| Lab 17 | GMS App Investigations: Maps |
+| Lab 18 | Intro iPhone iOS 13 |
+| Lab 19 | iPhone Device Investigation |
+| Lab 20 | Messages Investigations |
+| Lab 21 | Safari Investigations |
+| Lab 22 | Location Investigations |
+| Lab 23 | DJI Mavic Air Mobile |
+| Lab 24 | DJI Mavic Air MicroSD Raw |
+| Lab 25 | DJI Mavic Air MicroSD Encase Format |
+
+---
+
+### CIP-B107: AI for Forensics and Capstone Intelligence Analysis
+
+**Duration:** 4 Weeks (Weeks 22-25)  
+**Platform:** Jupyter Notebook / LLM-assisted analysis workflows / forensic intelligence datasets  
 **Total Labs:** 8
 
-*Same as CIP-A107 - See [CIP-A107 Lab Listings](#cip-a107-security-operations-centre-soc-essentials)*
+| Lab # | Lab Title |
+|-------|-----------|
+| Lab 01 | CKIM2024 AI for Forensics Hands-On Lab |
+| Lab 02 | Identifying IP Addresses using a Fine-tuned AI Model |
+| Lab 03 | Profiling Suspects Leveraging LLMs (Browser History) |
+| Lab 04 | Political Insight Analysis Leveraging LLMs (Email) |
+| Lab 05 | Forensic Intelligence Repository: Email Forensics |
+| Lab 06 | Forensic Intelligence Repository: Illegal Possession of Images |
+| Lab 07 | Capstone Evidence Correlation and Intelligence Fusion |
+| Lab 08 | Final Forensic Report and Presentation |
 
 ---
-
-### CIP-B107: Advanced Forensic Investigations
-
-**Duration:** 7 Weeks (Weeks 19-25)  
-**Platform:** Independent Study / ICDFA Resources  
-**Total Labs:** 21 (Case Study Units)
-
-| Unit # | Unit Title | Week | Focus Area |
-|--------|-----------|------|-----------|
-| Unit 01 | Corporate Data Breach Investigation | Week 19 | Corporate network intrusion, evidence collection, timeline reconstruction, forensic report writing |
-| Unit 02 | Mobile Device Forensics Case | Week 20 | Mobile device extraction, application data recovery, location analysis, expert witness report preparation |
-| Unit 03 | Ransomware Incident Response | Week 21 | Ransomware attack chain analysis, encrypted file recovery, malware reverse engineering, incident response documentation |
-| Unit 04 | Insider Threat Investigation | Week 22 | User activity monitoring, email exfiltration detection, registry/log correlation, legal and ethical considerations |
-| Unit 05 | Cloud Forensics Investigation | Week 23 | Cloud service provider log analysis, virtual machine forensic acquisition, cloud data recovery |
-| Unit 06 | Malware Forensics Case Study | Week 24 | Malware analysis, system compromise investigation, memory forensics, malware attribution |
-| Unit 07 | Capstone Forensic Investigation | Week 25 | Comprehensive multi-faceted case, professional report writing, presentation skills |
-
----
-
 ## Summary Statistics
 
 ### Track A: Ethical Hacking
@@ -389,7 +455,7 @@
 
 ### Track B: Digital Forensics
 - **Total Courses:** 7
-- **Total Labs:** 122 (including 21 case study units)
+- **Total Labs:** 90
 - **Duration:** 26 Weeks
 
 ---

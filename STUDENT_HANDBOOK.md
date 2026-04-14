@@ -230,7 +230,7 @@ All courses within the CIP are assessed using a combination of the following met
 - Final course exams
 - Final comprehensive exams
 - Capstone project evaluation (Week 26)
-- Professional report submissions (Track B: Advanced Forensic Investigations)
+- Professional report submissions and oral defence (Track B: AI for Forensics and Capstone Intelligence Analysis)
 
 ### 8.2 Grading Scale
 

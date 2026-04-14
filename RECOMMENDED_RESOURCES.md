@@ -88,39 +88,56 @@
 
 ## 3. Track B: Digital Forensics Resources
 
-### CIP-B101 & B102: Linux Systems Fundamentals
+### CIP-B101: Basic Computer Skills for Digital Forensics
 
-- Same as Track A (see above)
+- Digital Forensics Lab reference repository: basic computer skills materials
+- Microsoft command-line documentation
+- Linux Journey or equivalent Linux command-line primer
+- Computer architecture and number systems refresher materials
 
-### CIP-B103: Network Defence & Traffic Analysis
+### CIP-B102: Foundations of Computer and Digital Forensics
 
-- Same as Track A (see above)
+- Sleuth Kit and Autopsy official documentation
+- Carrier, Brian. *File System Forensic Analysis*
+- Introductory imaging, metadata, and carving tutorials from the reference repository
+- Public forensic report templates and evidence documentation examples
 
-### CIP-B104: Applied Security Engineering
+### CIP-B103: Network Forensics Fundamentals
 
-- Same as Track A (see above)
+- Wireshark official documentation and display filter reference
+- tshark manual pages and examples
+- Scapy documentation
+- Packet analysis walkthroughs from the reference repository
 
-### CIP-B105: Digital Forensics & Evidence Analysis
+### CIP-B104: Windows and Endpoint Forensics Casework
 
-- "Incident Response & Computer Forensics" by Chris Prosise
-- "The Art of Memory Forensics" by Michael Hale Ligh
-- SANS SEC504 Forensics course materials
-- NFCC (National Forensic Computing Conference) papers
-- YouTube: SANS Cyber Aces Forensics
+- NIST CFReDS data leakage case materials
+- Public Windows forensic artifact references (registry, event logs, MFT, USN)
+- Harlan Carvey's Windows forensic resources
+- Autopsy / Eric Zimmerman tooling references where appropriate
 
-### CIP-B106: Security Operations Centre (SOC) Essentials
+### CIP-B105: Applied Investigative Case Studies
 
-- Same as Track A (see above)
+- Case-study materials from the Digital Forensics Lab reference repository
+- Volatility documentation and memory forensics primers
+- Email tracing and traffic analysis guides
+- Historic incident case materials for the Morris Worm and related investigations
 
-### CIP-B107: Advanced Forensic Investigations
+### CIP-B106: Mobile and IoT Forensics
 
-- "Forensic Analysis" by Harlan Carvey
-- "Malware Forensics" by Cameron Malin
-- SANS Forensics Challenges
-- YouTube: John Hammond malware analysis
+- Mobile and IoT sections of the Digital Forensics Lab reference repository
+- SQLite documentation and mobile artifact parsing guides
+- Digital Corpora mobile datasets
+- Smart-device, embedded, and drone forensics research papers
+
+### CIP-B107: AI for Forensics and Capstone Intelligence Analysis
+
+- AI4Forensics materials from the reference repository
+- Jupyter Notebook documentation
+- Guidance on responsible AI use in digital investigations
+- STIX / cyber threat intelligence primers for structured evidence correlation
 
 ---
-
 ## 4. Free Online Learning Platforms
 
 - Coursera (coursera.org)

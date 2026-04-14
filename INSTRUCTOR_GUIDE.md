@@ -251,96 +251,142 @@ Each week should follow this pattern:
 
 ## Part 3: Track B -- Digital Forensics Delivery Notes
 
-### CIP-B101, B102, B103: Linux, Network Security (Weeks 1-8)
+### CIP-B101: Basic Computer Skills for Digital Forensics (Weeks 1-3)
 
 **Delivery Notes:**
-- Same as Track A (CIP-A101, A102, A103)
-- Emphasize forensic implications of Linux and network concepts
-- Connect to digital evidence preservation and chain of custody
-
----
-
-### CIP-B104: Applied Security Engineering (Weeks 9-12)
-
-**Delivery Notes:**
-- Same as Track A (CIP-A108) but with forensic focus
-- Emphasize logging and audit trail requirements
-- Discuss forensic readiness and evidence preservation
-
----
-
-### CIP-B105: Digital Forensics & Evidence Analysis (Weeks 13-16)
-
-**Pacing Recommendations:**
-- Week 13-14: File system forensics and data recovery
-- Week 15-16: Advanced forensic analysis and case studies
-- Allocate 3 hours per lab
-
-**Common Student Challenges:**
-- Difficulty understanding file system structures
-- Ethical concerns about data privacy
-- Overwhelm from complex forensic scenarios
-
-**Mitigation Strategies:**
-- Provide file system fundamentals overview
-- Use anonymized real-world forensic images
-- Emphasize legal and ethical requirements
-- Break complex investigations into phases
+- Begin with number systems and terminology before moving into command-line work
+- Demonstrate how foundational computing knowledge supports later forensic interpretation
+- Require students to document commands used and what each command reveals
 
 **Lab Setup Notes:**
-- Pre-configure Autopsy or similar forensic tools
-- Provide forensic images with known artifacts
-- Document chain of custody procedures
-- Create realistic forensic scenarios
-
-**Assessment Rubric:**
-- Lab Completion (50%): All 21 labs with passing scores
-- Forensic Analysis Report (30%): Professional documentation of findings
-- Final Exam (20%): Forensic methodologies and evidence handling
+- Provide a simple Kali Linux VM and a Windows command prompt environment
+- Supply short practice datasets for file navigation and hashing exercises
 
 ---
 
-### CIP-B106: Security Operations Centre (SOC) Essentials (Weeks 17-18)
-
-**Delivery Notes:**
-- Same as Track A (CIP-A107) but with forensic focus
-- Emphasize incident investigation and evidence collection
-- Discuss forensic readiness in SOC environments
-
----
-
-### CIP-B107: Advanced Forensic Investigations (Weeks 19-25)
+### CIP-B102: Foundations of Computer and Digital Forensics (Weeks 4-6)
 
 **Pacing Recommendations:**
-- Week 19-21: Case study analysis and evidence correlation
-- Week 22-23: Advanced investigation techniques
-- Week 24-25: Capstone investigation and expert report preparation
-- Allocate 4 hours per unit for research and analysis
+- Week 4: Introduction to digital forensics, Sleuth Kit basics, and USB imaging
+- Week 5: Evidence search, metadata interpretation, and pattern matching
+- Week 6: Data carving, steganography, and introductory reporting
 
 **Common Student Challenges:**
-- Difficulty synthesizing evidence from multiple sources
-- Overwhelm from real-world case complexity
-- Uncertainty about expert witness requirements
+- Confusing acquisition with analysis
+- Difficulty understanding artefact provenance and evidential value
+- Weak documentation habits during practical exercises
 
 **Mitigation Strategies:**
-- Provide case study templates and frameworks
-- Use guided investigations with increasing complexity
-- Invite guest lecturer (practicing forensic expert)
-- Emphasize report writing and presentation skills
-
-**Lab Setup Notes:**
-- Provide comprehensive forensic case packages
-- Include multiple evidence types (disk, memory, network, logs)
-- Document case background and investigation objectives
-- Create realistic multi-source investigation scenarios
-
-**Assessment Rubric:**
-- Case Analysis (40%): Thorough investigation of each case
-- Forensic Report (40%): Professional documentation and findings
-- Capstone Presentation (20%): Clear communication of investigation results
+- Model every lab as acquisition, validation, analysis, and reporting
+- Emphasize hash verification and note-taking from the first exercise
+- Use worked examples before independent analysis
 
 ---
 
+### CIP-B103: Network Forensics Fundamentals (Weeks 7-8)
+
+**Delivery Notes:**
+- Teach packet review as evidence interpretation, not only protocol study
+- Compare Wireshark GUI workflows with tshark command-line workflows
+- Use timeline reconstruction from packet captures as the core assessment skill
+
+**Lab Setup Notes:**
+- Pre-stage packet captures for HTTP, SMTP, ARP, DNS, and wireless scenarios
+- Provide answer keys for packet-level checkpoints rather than full solutions
+
+---
+
+### CIP-B104: Windows and Endpoint Forensics Casework (Weeks 9-12)
+
+**Pacing Recommendations:**
+- Week 9: NIST environment setup, registry, events, browser, and email artefacts
+- Week 10: USN, shellbags, cloud/network traces, and NTFS artefacts
+- Week 11: Search history, shadow copies, anti-forensics, carving, and password recovery
+- Week 12: P2P leakage case, artifact correlation, and final timeline summary
+
+**Common Student Challenges:**
+- Overload from the volume of Windows artefacts
+- Difficulty correlating user activity across multiple evidence sources
+- Weak timeline reasoning when artifacts appear contradictory
+
+**Mitigation Strategies:**
+- Use artifact comparison sheets for registry, browser, MFT, USN, and logs
+- Require intermediate timeline checkpoints before final conclusions
+- Encourage pair discussion on alternative interpretations before grading
+
+**Assessment Rubric:**
+- Lab Completion (45%): Accurate processing of all assigned endpoint labs
+- Timeline Reconstruction (30%): Clear, evidence-backed reconstruction of events
+- Forensic Report (25%): Well-structured case narrative with cited artifacts
+
+---
+
+### CIP-B105: Applied Investigative Case Studies (Weeks 13-16)
+
+**Pacing Recommendations:**
+- Week 13: Illegal possession of images case
+- Week 14: Email harassment case
+- Week 15: Memory forensics case
+- Week 16: Hacking case and Morris Worm investigation
+
+**Common Student Challenges:**
+- Jumping to conclusions from single artifacts
+- Limited confidence in memory forensics interpretation
+- Difficulty distinguishing scenario background from admissible evidence
+
+**Mitigation Strategies:**
+- Require students to label each conclusion with supporting artifacts
+- Break memory labs into guided sub-questions
+- Reinforce the difference between hypothesis, lead, and evidence
+
+---
+
+### CIP-B106: Mobile and IoT Forensics (Weeks 17-21)
+
+**Pacing Recommendations:**
+- Week 17: Eufy doorbell workflows and smart-home artifact interpretation
+- Week 18: Echo Show acquisition and multimedia/application evidence
+- Week 19: Android 10 evidence sources and app investigations
+- Week 20: iPhone iOS artifact interpretation
+- Week 21: Drone datasets and comparative mobile/IoT review
+
+**Lab Setup Notes:**
+- Provide read-only copies of mobile and IoT datasets where possible
+- Explain the limits of chip-off and logical extraction evidence
+- Use SQLite viewers and timeline templates consistently across device types
+
+**Assessment Rubric:**
+- Lab Completion (50%): Completion and accuracy across device-focused labs
+- Evidence Interpretation (30%): Quality of artifact explanation and relevance
+- Comparative Reflection (20%): Clear discussion of differences across device ecosystems
+
+---
+
+### CIP-B107: AI for Forensics and Capstone Intelligence Analysis (Weeks 22-25)
+
+**Pacing Recommendations:**
+- Week 22: AI-assisted forensic analysis foundations and hands-on notebooks
+- Week 23: Browser history profiling and email-based insight generation
+- Week 24: Forensic intelligence datasets and correlation workflows
+- Week 25: Capstone report, presentation, and oral defence preparation
+
+**Common Student Challenges:**
+- Over-trusting AI-generated summaries
+- Difficulty validating model output against original evidence
+- Confusing investigative assistance with automated conclusions
+
+**Mitigation Strategies:**
+- Require side-by-side validation of AI output against source artifacts
+- Grade transparency of method, not only final answers
+- Emphasize disclosure of model limitations and examiner review
+
+**Assessment Rubric:**
+- AI/Notebook Exercises (25%): Correct and transparent use of AI-assisted workflows
+- Evidence Correlation (35%): Quality of cross-source reasoning and validation
+- Capstone Report (25%): Professional documentation and justification of findings
+- Oral Defence (15%): Clear communication of methods, limitations, and conclusions
+
+---
 ## Part 4: General Assessment & Grading
 
 ### Grading Scale
