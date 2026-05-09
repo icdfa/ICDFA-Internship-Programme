@@ -6,7 +6,7 @@
 **Approved by:** ICDFA Training Board
 **Effective Date:** April 2026
 **Programme Duration:** 6 Months per Track (26 Weeks)
-**Delivery Mode:** Online, Lab-Intensive, Instructor-Guided
+**Delivery Mode:** Self Paced Online, Lab-Intensive, Instructor-Guided
 **Credential Awarded:** Certified in Cybersecurity and Digital Forensics (CCDF)
 
 ---
