@@ -10,7 +10,7 @@
 
 **Programme Duration:** 6 Months per Track (26 Weeks)
 
-**Delivery Mode:** Self Paced Online, Lab-Intensive, Instructor-Guided
+**Delivery Mode:** Self Paced Online, Lab-Intensive, Instructor Office Hours for Clarification and QA
 
 **Credential Awarded:** Certified in Cybersecurity and Digital Forensics (CCDF)
 
